@@ -2,3 +2,4 @@
 
 ## 4.1.1/4.2.1/4.3.1 Rappel des conclusions de la phase exploratoire : un faible usage des données ouvertes du fait de pratiques quotidiennes inadaptées
 
+## 4.1.2 Collecte de données : entretiens semi-directifs avec les opérateurs de l'open data grenoblois et lyonnais
