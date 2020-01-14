@@ -7,3 +7,5 @@ Synthèse des besoins identifiés après les entretiens semi-directifs : [une ca
 ## 5.1.2 La construction des éléments fonctionnels, propositions et principes de design à partir des besoins fonctionnels identifiés : une revue de littérature spécialisée
 
 ## 5.1.3 Analyse des éléments fonctionnels identifiés et des kernel theories directrices : une base distribuée et partagée designée sur la base de la théorie de la cognition distribuée
+
+## 5.1.4 Les conséquences des principes et kernel theories sur le prototypage de l'artefact
