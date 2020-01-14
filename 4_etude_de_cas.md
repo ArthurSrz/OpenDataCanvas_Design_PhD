@@ -6,3 +6,5 @@
 
 ## 4.1.3 Analyse des données : codage des entretiens en utilisant un système permettant d'identifier les barrières socio-techniques et les moyens imaginés pour les lever
 
+## 4.1.4 Résultats et discussion : un besoin d'avoir des connaissances partagées entre opérateurs pour lever plus facilement les barrières 
+
