@@ -13,3 +13,5 @@ Dans ce chapitre, nous décrivons la méthodologie visant à répondre à notre 
 Dans un premier temps, nous replacerons notre méthodologie dans le contexte plus global de l'**architecture de recherche** qui sous-tend l'ensemble de nos travaux (2.1). D'un côté, elle met en lumière le raisonnement qui nous permet de mettre relation notre **posture scientifique et épistémologique avec notre posture méthodologique** (2.1.1). De l'autre, elle permet de déduire de cette posture des **principes opérationnels** sur la base desquels nous avons construit notre **design de recherche**. (2.1.2)
 Dans un second temps, nous détaillerons chacune des 5 étapes de notre design de recherche ainsi que la nature des transitions qui permettent de les lier les unes aux autres (2.2). Plus précisément, nous présenterons, pour chacune des étapes, la sous-question de recherche adréssée (2.2.1), la méthode utilisée (2.2.2) ainsi que les résultats espérés (2.2.3). 
 
+## 2.1 Présentation de l'architecture de recherche
+
