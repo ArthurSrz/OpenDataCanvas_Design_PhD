@@ -15,3 +15,17 @@ Dans un second temps, nous détaillerons chacune des 5 étapes de notre design d
 
 ## 2.1 Présentation de l'architecture de recherche
 
+### 2.1.1 De la posture scientifique et épistémologique à la posture méthodologique
+
+- [ ] Centrer sur Carlsson (2010)
+
+Carlsson (2010) propose d'emprunter la posture scientifique et épistémologique dite du réalisme critique qui fut développée en premier lieu par Roy Bhaskar. Elle définit 3 domaines de réalités (le réel, l'actuel et l'empirique). Le réel est régi par des structures et des mécanismes ; l'actuel par des évènements et des comportements ; l'empirique par des expériences. Selon cette posture, le but de la science est de comprendre les structures et mécanimes du réel et de les utiliser afin de modifier les expériences vécues dans le domaine empirique. 
+
+Ces modifications se font à travers des interventions en Systèmes d'Information (*Information system intervention*) qui sont consituées de 5 éléments (figure ci-dessous). Ces interventions sont déclenchées par une Situation Problématique (SP) situées dans un Contexte (C) particulier. Les praticiens souhaitent la SP quitter pour atteindre une Situation Désirée (SD). Pour cela, le chercheur en système d'information met en place une Intervention en Système d'Information (ISI) qui vient utiliser les Mécanismes (M) pour assurer le passage de SP à SD. 
+
+![Figure. Intervention en Systèmes d'Information](http://opendatatales.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-21-at-17.28.31.png)
+Figure. Intervention en Systèmes d'Information
+
+ 
+
+
