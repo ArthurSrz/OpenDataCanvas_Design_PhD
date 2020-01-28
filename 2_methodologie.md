@@ -15,3 +15,4 @@ Dans un second temps, nous détaillerons chacune des 5 étapes de notre design d
 
 ## 2.1 Présentation de l'architecture de recherche
 
+## 2.2 Présentation des cinq étapes du design de recherche 
