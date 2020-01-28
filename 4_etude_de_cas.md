@@ -58,3 +58,10 @@ Nous reprenons les 9 étapes proposées par Eisenhardt (1989) :
 ### 9ème cas : Atteinte du point de clôture 
 - [ ] done - expliquer la variation du protocole en fonction de l'itération 
 
+
+## 4.1.1 Rappel des conclusions de la phase exploratoire : un faible usage des données ouvertes du fait de nombreuses barrières socio-techniques
+
+Dans le chapitre précédent, nous avons établi que les opérateurs de l'open data, dans l'usage des données, faisaient face à des **barrières socio-techniques** . C'est à dire des éléments ayant une influence négative sur les interactions entre un système technique et un système social et donc sur leurs résultats (Bostrom et Heinen, 1977; Vonk et Ligtenberg, 2010). Nous pouvons les classer en six catégories : barrières culturelles, barrières politiques, barrières techniques, barrières administratives et légales, barrières organisationnelles et barrières communicationnelles. 
+
+Dans ce chapitre, il est question de mener une étude de cas comparative permettant de construire des besoins fonctionnels dans lesquels les Elements de Situation Problématique (ESP) sont les barrières socio-techniques. 
+ 
