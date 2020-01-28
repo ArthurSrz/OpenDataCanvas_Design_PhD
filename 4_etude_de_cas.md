@@ -58,3 +58,5 @@ Nous reprenons les 9 étapes proposées par Eisenhardt (1989) :
 ### 9ème cas : Atteinte du point de clôture 
 - [ ] done - expliquer la variation du protocole en fonction de l'itération 
 
+
+## 4.2.1 Rappel de la reconceptualisation de l'heuristique et des unités d'analyse : sous-systèmes --> espaces de données / barrières socio-techniques --> contraintes de l'action par les espaces de données
