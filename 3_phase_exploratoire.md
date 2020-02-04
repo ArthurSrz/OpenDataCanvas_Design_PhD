@@ -38,7 +38,7 @@ Le protocole des entretiens semi-directifs avec ces praticiens consistait en pre
 ## 3.2 Choix des observations à effectuer et réalisation
 
 
-
+## 3.3 Confrontation des observations avec les praticiens et formulation d'un nouveau cadre conceptuel
 
 
 
