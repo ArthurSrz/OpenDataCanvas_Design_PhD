@@ -31,8 +31,7 @@ Le protocole des entretiens semi-directifs avec ces praticiens consistait en pre
 *In fine*, c'est le canevas de recherche affiné qui servira de modèle de compréhension initial du phénomène et qui clôturera les premières activités du cycle de pertinence. Il sera exporté vers d'autres contextes "parents" (Thiétart et al., 2014, p. 93 ; Passeron, 2006) et permettra alors d'initier les **cycles de design et de rigueur** (Hevner et Chatterjee, 2010, p.16) qui, avec le cycle de pertinence, forment l'ensemble du processus de recherche de la *Design Science Research Methodology*
 
 
-
-
+## 3.1 Invention et conceptualisation des difficultés rencontrées dans l'innovation de services issue de l'open data. 
 
 
 
