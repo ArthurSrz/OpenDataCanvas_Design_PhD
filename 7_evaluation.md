@@ -12,3 +12,4 @@
 <font color='red'>test blue color font</font>
 
 <span style="color:red">some **This is Red Bold.** text</span>
+<span style=“color:green;”> text goes here</span>
