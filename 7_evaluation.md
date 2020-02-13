@@ -1,3 +1,14 @@
-# 7. Quasi-expérimentations visant à évaluer la capacité d'Innodata à faciliter les interactions entre les opérateurs de l'open data et les *data spaces*
+# 7. Evaluation de la capacité d'une base de connaissance à lever les barrières socio-techniques à l'usage de l'open data
 
-## 7.1.1 Rappel des caractéristiques du prototype et de la question de recherche à laquelle les quasi-expérimentations répondent : comment une base de connaissance lève-t-elle les freins et barrières à l'usage de l'open data ?
+## 7.1.1 Choix de la méthode d'évaluation 
+
+### Démonstration 
+
+- Démontrer que la solution construite apporte une réponse raisonnable à des situations pré-déterminées. 
+- Ces situations doivent être prédefinies et non créées *ex post* pour s'appliquer à la soltuion.
+- Ces situations doivent être construites pour mettre à l'épreuve les variations du problèmes. 
+
+<span style="color:blue">some *blue* text</span>
+<font color='red'>test blue color font</font>
+
+<span style="color:red">some **This is Red Bold.** text</span>
