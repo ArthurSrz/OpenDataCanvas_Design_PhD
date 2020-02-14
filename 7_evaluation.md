@@ -31,4 +31,14 @@
   
 **Démonstration possible : avec le modèle (notation) d'Hutchins(Learning in situational context), démontrer qu'une base de connaissance (=structure de médiation) peut faire sauter les 5 barrières socio-techniques** 
 
+- Problème organisationnel : absence d'usage de l'open data 
+- Solution/Artefact : base de connaissance comme structure de médiation 
+- Construction de la situation : barrière socio-technique dans le processus d'innovation (Kuk and Davies, 2011)
+  * Agentivité humaine <--> Artefact technique : **barrière sociale**
+  * Agentivité matérielle <--> Agentivité humaine : barrière sociale
+  * Artefact technique <--> Agentivité technique : **barrière technique**
+
+- Démonstration : base de connaissance construite selon la théorie de la cognition distribuée (le modèle d'Hutchins) crée des chemins parallèles que peuvent emprunter les opérateurs (petites mains invisibles) de l'open data non inités qui leur donnera accès à une structure de sens commune et les mènera à l'action, c'est à dire à la prochaine étape.  
+
+
 </span>
