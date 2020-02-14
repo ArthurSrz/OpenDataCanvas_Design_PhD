@@ -83,4 +83,4 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 
 ### 1.2.1 Innovation de services 
 
-Centrer autour du schéma d'assemblage de Kuk et Davies (2011)
+Centrer autour du schéma d'assemblage de Kuk et Davies (2011) + petits mains de l'open data (Denis)
