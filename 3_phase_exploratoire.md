@@ -38,6 +38,7 @@ Le protocole des entretiens semi-directifs avec ces praticiens consistait en pre
 ## 3.2 Choix des observations à effectuer et réalisation
 
 PhD Working Book - p.37 - LiberTIC (Nantes) 
+PhD Working Book - p.39-43 - Ali Benfattoum (Citizen clan) 
 
 
 
