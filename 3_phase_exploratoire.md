@@ -39,6 +39,7 @@ Le protocole des entretiens semi-directifs avec ces praticiens consistait en pre
 
 - PhD Working Book - p.37 - LiberTIC (Nantes) 
 - PhD Working Book - p.39-43 - Ali Benfattoum (Citizen clan) 
+- PhD Working Book - p.49-51 - Gabriel Plassat (La Fabrique des mobilités)
 
 
 
