@@ -19,6 +19,8 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Innovation de services
 - [ ] done 
 
+Définition strictement circonscrite aux travaux de Kuk and Davies (2011) + travaux sur les petites mains de l'information (Jérôme Denis) 
+
 ### Open data 
 - [ ] done 
 
