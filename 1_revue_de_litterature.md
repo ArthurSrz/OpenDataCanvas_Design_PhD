@@ -78,3 +78,9 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 
    
 </table>
+
+## 1.3 Open Data
+
+### Niveau industriel, territorial et sociétal
+
+PhD Working Book (1) - 2017 (p.15-19)
