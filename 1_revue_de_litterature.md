@@ -84,7 +84,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 ### 1.2.1 Innovation de services 
 
 - PhD Working Book (2) - p.20-24 - Perspectives sur l'innovation de services
-- Conclusion sur le centrage autour du schéma d'assemblage de Kuk et Davies (2011) + petits mains de l'open data et études STS (Denis)
+- Conclusion sur le centrage autour du schéma d'assemblage de Kuk et Davies (2011) + petits mains de l'open data et études STS (Denis) + PhD Working Bool (2) - p.24-26 - Différentes descritpions des interactions en jeu dans l'innovation de services. 
 
 ### 1.2.2 Les 3 générations de plateformes Open Data
 
