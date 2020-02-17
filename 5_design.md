@@ -6,8 +6,9 @@ Synthèse des besoins identifiés après les entretiens semi-directifs : [une ca
 
 ## 5.1.2 La construction des éléments fonctionnels, propositions et principes de design à partir des besoins fonctionnels identifiés : une revue de littérature spécialisée
 
-### Canevas général du principe de design :
+### Canevas général du principe de design : théorie de la cognition distribuée et middleground
 
+**Théorie de la cognition distribuée**
 Démonstration possible : avec le modèle (notation) d'Hutchins(Learning in situational context), démontrer qu'une base de connaissance (=structure de médiation) peut faire sauter les 5 barrières socio-techniques
 
 Problème organisationnel : absence d'usage de l'open data
@@ -21,5 +22,9 @@ Agentivité matérielle <--> Agentivité humaine : barrière sociale
 Artefact technique <--> Agentivité technique : barrière technique
 
 Démonstration : base de connaissance construite selon la théorie de la cognition distribuée (le modèle d'Hutchins) crée des chemins parallèles que peuvent emprunter les opérateurs (petites mains invisibles) de l'open data non inités qui leur donnera accès à une structure de sens commune et les mènera à l'action, c'est à dire à la prochaine étape.
+
+**Concept du middleground et du travail cognitif de constitution d'une communauté épistémique**
+
+- PhD Working Book (3) - p.49-57 - Synthèse des travaux de Cohendet et al. (2012)
 
 ## 5.1.3 Analyse des éléments fonctionnels identifiés et des kernel theories directrices : une base distribuée et partagée designée sur la base de la théorie de la cognition distribuée
