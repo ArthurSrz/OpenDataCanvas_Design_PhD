@@ -40,8 +40,8 @@ Le protocole des entretiens semi-directifs avec ces praticiens consistait en pre
 
 ## 3.3 Confrontation des observations avec les praticiens et formulation d'un nouveau cadre conceptuel
 
-Entretien Nicolas Guichard - PhD Working Book (1) - p.25-27
-Entretien Laurent Chevereau - Communauté des données transports - PhD Working Book (2) - p.49-50
-Entretien Simon Chignard - Etalab - PhD Working Book (2) - p.52-55
+- Entretien Nicolas Guichard - PhD Working Book (1) - p.25-27
+- Entretien Laurent Chevereau - Communauté des données transports - PhD Working Book (2) - p.49-50
+- Entretien Simon Chignard - Etalab - PhD Working Book (2) - p.52-55/p.63
 
 
