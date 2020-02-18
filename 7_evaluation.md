@@ -4,6 +4,9 @@ Dans le chapitre précédent, nous avons détaillé le  [**processus de prototyp
 
 Nous avons mené des évaluations dans le but d'estimer successivement la capacité des différentes versions d'Innodata (i.e les artefacts) à conduire l'innovation de services issue de l'open data dans les villes intelligentes vers l'idéal qu'elles se sont fixées. En effet, le choix de la *design science research methodology* suppose d'adopter une démarche intrinséquement itérative dans laquelle une première réponse artefactuelle est apportée avant d'être évaluée. Si la réponse est suffisamment pertinente empiriquement et rigoureuse scientifiquement, alors la recherche s'arrête. Dans le cas contraire, la question de recherche est précisée et un nouveau cycle de recherche démarre. Cette nouvelle itération apporte une deuxième réponse artefactuelle qui est à son tour évaluée, et ainsi de suite.
 
+**Ajouter évaluation du process (VS. évaluation du produit) ?**
+- PhD Working Book (4) - p.-81
+
 - [x] Décrire la structure générale des évaluations menées à la fin de chaque cycle de recherche. 
 - [x] Expliquer le lien avec la partie prototypage et avec la première étape du nouveau cycle 
 - [x] Dédoubler en évaluation de la pertinence empirique et de la rigueur scientifique 
