@@ -7,6 +7,8 @@ Nous avons mené des évaluations dans le but d'estimer successivement la capaci
 **Ajouter évaluation du process (VS. évaluation du produit) ?**
 - PhD Working Book (4) - p.-81
 
+
+
 - [x] Décrire la structure générale des évaluations menées à la fin de chaque cycle de recherche. 
 - [x] Expliquer le lien avec la partie prototypage et avec la première étape du nouveau cycle 
 - [x] Dédoubler en évaluation de la pertinence empirique et de la rigueur scientifique 
