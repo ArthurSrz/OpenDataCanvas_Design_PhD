@@ -8,8 +8,12 @@ Synthèse des besoins identifiés après les entretiens semi-directifs : [une ca
 
 ## 5.2.2 Construction des principes de design 
 
-### Canevas général du principe de design : concept de middleground
+### Canevas général du principe de design : concept de middleground + théorie de l'adoption (Fountain)
 
 **Concept du middleground et du travail cognitif de constitution d'une communauté épistémique**
 
 - PhD Working Book (3) - p.49-57 - Synthèse des travaux de Cohendet et al. (2012)
+
+**Théorie de l'adoption (Fountain)**
+
+- PhD Working Book (4) - p.102 - Pq théorie de l'adoption est intéressante 
