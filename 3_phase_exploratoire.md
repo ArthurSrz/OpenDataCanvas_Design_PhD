@@ -7,6 +7,8 @@
 
 ## 3.2 Choix des observations à effectuer et réalisation
 
+PhD Working Book (4) - p.84 - Constitution d'un échantillon de convenance
+
 - PhD Working Book (1) - p.37 - LiberTIC (Nantes) 
 - PhD Working Book (1) - p.39-43 - Ali Benfattoum (Citizen clan) 
 - PhD Working Book (3)- p.39-41 - La fabrique des mobilités
@@ -15,7 +17,7 @@
 -  PhD Working Book (3) - p.33-35 - La Péniche (Grenoble)
 - PhD Working Book (3) - p.35-38 - Tuba (Lyon)
 
-- PhD Working Book (4) - p.84 - Constitution d'un échantillon de convenance
+
 
 
 
