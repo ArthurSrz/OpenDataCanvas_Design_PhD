@@ -45,4 +45,4 @@ Le protocole des entretiens semi-directifs avec ces praticiens consistait en pre
 - Entretien Simon Chignard - Etalab - PhD Working Book (2) - p.52-55/p.63
 - PhD Working Book (1) - p.49-51 - Gabriel Plassat (La Fabrique des mobilités) 
 
-
+PhD Working Book (4) - p.98-99 - Point sur la première boucle de pertinence
