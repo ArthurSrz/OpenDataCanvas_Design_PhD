@@ -89,4 +89,5 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 
 ### 1.2.2 Les 3 générations de plateformes Open Data
 
+PhD Working Book (4) - p. 101-102 - Faible performance des plateformes de deuxième génération  
 PhD Working Book (1) - Plateformes de deuxième génération - Alewopoulos et al. (2014) - p.34
