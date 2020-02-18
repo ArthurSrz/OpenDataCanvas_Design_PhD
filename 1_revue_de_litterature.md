@@ -82,6 +82,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 ## 1.3 Open Data
 
 PhD Working Book (2) - p.8-11 - Débat sur les différentes définitions de l'open data + place dans les smart city
+PhD Working Book (4) - p.99-100 - Etat des lieux sur la façon dont l'open data est étudié aujourd'hui
 
 ### Niveau industriel, territorial et sociétal
 
