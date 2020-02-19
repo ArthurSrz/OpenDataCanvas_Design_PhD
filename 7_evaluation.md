@@ -6,6 +6,7 @@ Nous avons mené des évaluations dans le but d'estimer successivement la capaci
 
 **Ajouter évaluation du process (VS. évaluation du produit) ?**
 - PhD Working Book (4) - p.-81
+- PhD Working Book (5) - p.26-27 - Pattern d'alignement avec un paradigme - Insérer les itérations dans la littérature scientifique
 
 
 
