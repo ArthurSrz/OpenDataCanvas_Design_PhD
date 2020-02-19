@@ -5,6 +5,7 @@
 
 - PhD Working Book (4) - p.74 - Justification des 2 niveaux d'analyse - Réference à Weizenbaum *Puissance de l'ordinateur et raison de l'homme*
 - PhD Working Book (5) - p.30-33 - Fixer le rôle, la place la définition de chaque acteur dans l'invention 
+- PhD Working Book (5) - p. 46-47 - Pattern de construction de l'écosyst et des barrières. 
 
 
 
