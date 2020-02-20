@@ -2,6 +2,6 @@
 
 ## 4.1.1/4.2.1/4.3.1 Rappel des conclusions de la phase exploratoire : un faible usage des données ouvertes du fait de nombreuses barrières socio-techniques
 
-## 4.2.2 Collecte des données : réalisation d'entretiens et description du design des plateformes open data pour identifier les contraintes quotidiennes auxquelles font face les opérateurs de l'open data. 
+## 4.2.2 Collecte des données : description du design des plateformes open data + urbanisme du SI pour identifier les contraintes quotidiennes auxquelles font face les opérateurs de l'open data. 
 
-- PhD Working Book (5) - p.122-123 - Entretien avec Nathalie Vernus-Prost
+
