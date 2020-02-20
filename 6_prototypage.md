@@ -2,6 +2,6 @@
 
 - PhD Working Book (5) - p.105-107 - Véritable démarche de co-construction avec un intermédiaire (écosystème) : Datactivist.
 
-## 6.1.1 Objectifs du prototype
+## 6.2.1 Objectifs du prototype
 
-## 6.1.2 Sélectionner les fonctions
+## 6.2.2 Sélectionner les fonctions
