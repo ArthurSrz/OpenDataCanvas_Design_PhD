@@ -82,3 +82,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 
    
 </table>
+
+## 1.5 Identification Gap
+
+- PhD Working Book (5) - p.177-179 - Premier raisonnement sur IdS comme wicked problem et implications méthodologiques
