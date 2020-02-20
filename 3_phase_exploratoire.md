@@ -17,6 +17,8 @@ PhD Working Book (4) - p.84 - Constitution d'un échantillon de convenance
 -  PhD Working Book (3) - p.33-35 - La Péniche (Grenoble)
 - PhD Working Book (3) - p.35-38 - Tuba (Lyon)
 - PhD Working Book (5) - p.8-9 - Place des tiers lieux dans les smart city
+- PhD Working Book (5) - p.54 - Métropôle Saint Etienne
+
 
 
 
