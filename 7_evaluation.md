@@ -2,4 +2,6 @@
 
 ## 7.2.1 Analyse de l'évaluation à effectuer
 
+## 7.2.2 Choix d'une stratégie
+
 
