@@ -19,7 +19,7 @@ PhD Working Book (4) - p.84 - Constitution d'un échantillon de convenance
 - PhD Working Book (5) - p.8-9 - Place des tiers lieux dans les smart city
 - PhD Working Book (5) - p.54 - Métropôle Saint Etienne
 - PhD Working Book (5) - p.59 - Données touristiques (Apidae, METT)
-- PhD Working Book (5) - p.62-64 - Positionnement ICADE "Cadre de confiance" + p.68-70 - Focus group autour de la gouvernance de la donnée + p.75-76 - Schéma de gouvernance des données
+- PhD Working Book (5) - p.62-64 - Positionnement ICADE "Cadre de confiance" + p.68-70 - Focus group autour de la gouvernance de la donnée + p.75-76 - Schéma de gouvernance des données - p.90-96 - Feedback focus group sur gouvernance
 
 
 
