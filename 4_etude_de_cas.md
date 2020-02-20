@@ -66,3 +66,7 @@ Dans le chapitre précédent, nous avons établi que les opérateurs de l'open d
 Dans ce chapitre, il est question de mener une étude de cas comparative permettant de construire des besoins fonctionnels dans lesquels les Elements de Situation Problématique (ESP) sont les barrières socio-techniques. 
  
  ## 4.1.2 Collecte de données : entretiens semi-directifs avec les opérateurs de l'open data grenoblois et lyonnais
+ 
+- PhD Working Book (5) - p.122-123 - Note entretien avec Nathalie Vernus-Prost (CDO du Grand Lyon)
+
+
