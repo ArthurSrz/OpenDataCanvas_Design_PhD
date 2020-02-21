@@ -4,4 +4,6 @@
 
 ## 4.2.2 Collecte des données : description du _design des plateformes_ open data + _urbanisme du SI_ pour identifier les contraintes quotidiennes auxquelles font face les opérateurs de l'open data. 
 
+- PhD Working Book (6) p P.46-47 - Méthode de Dawes et al. (2016) pour évaluer les plateformes
+
 
