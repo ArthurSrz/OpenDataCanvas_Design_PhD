@@ -90,3 +90,4 @@ PhD Working Book (1) - 2017 (p.15-19)
 ## 1.4 Ecosystème Open Data
 
 PhD Working Book (2) - p.12-19 - Débat sur les différentes définitions des écosystèmes Open Data
+PhD Working Book (6) - p. 57-58 - Démonstration de la richesse de la métaphore de l'écosystème
