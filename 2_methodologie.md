@@ -34,3 +34,7 @@ Le choix de l’étude de cas est particulièrement adapté pour répondre aux s
 - Le niveau individuel utilisé pour comprendre les barrières qui freinent les interactions homme-machine ou, “homme-donnée”
 - Le niveau inter-individuel, c’est à dire les interactions entre individus pour comprendre les barrières qui freinent les interactions entre les travailleurs de la donnée. 
 
+
+**Auto-évaluation de la qualité scientifique de l'étude de cas**
+
+- PhD Working Book (6) - p.8-14 - Inspiration de Zuiderwijk
