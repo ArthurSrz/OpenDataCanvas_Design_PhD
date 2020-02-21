@@ -7,5 +7,7 @@
 
 - PhD Working Book (6) p.46-47 - Méthode de Dawes et al. (2016) pour évaluer les plateformes
 - PhD Working Book (6) p.52-53 - Collecte de données (en rouge) pour parler des espaces de données/Open Data Work
+- PhD Working Book (6) p.78-83 - Analyse du design de la plateforme de Grenoble
+- PhD Working Book (6) p.84-99 - Description d'une architecture SI (urbanisation) + description SIT (métropôle grenobloise)
 
 
