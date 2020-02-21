@@ -59,7 +59,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
         </tr>
         <tr>
             <td>(Open) Data</td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
+            <td><ul><li>Ruijer et al. (2018) et Colebatch (2010)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
@@ -83,6 +83,10 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 
 PhD Working Book (2) - p.8-11 - Débat sur les différentes définitions de l'open data + place dans les smart city
 PhD Working Book (4) - p.99-100 - Etat des lieux sur la façon dont l'open data est étudié aujourd'hui
+
+### Niveau infra-organisationnel
+
+PhD Working Book (6) - p. 60-61 - première évocation de l'open data work (contre le niveau industriel)
 
 ### Niveau industriel, territorial et sociétal
 
