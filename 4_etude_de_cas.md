@@ -5,6 +5,7 @@
 
 - Portails/Interfaces comme expression de la structure - PhD Working Book (1), p.61 - Construction du protocole et des instruments de l'étude de cas à partir de la théorie de la structuration (Orlikowski, 1993)
 
-- PhD Working Book (6) p P.46-47 - Méthode de Dawes et al. (2016) pour évaluer les plateformes
+- PhD Working Book (6) p.46-47 - Méthode de Dawes et al. (2016) pour évaluer les plateformes
+- PhD Working Book (6) p.52-53 - Collecte de données (en rouge) pour parler des espaces de données/Open Data Work
 
 
