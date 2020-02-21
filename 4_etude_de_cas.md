@@ -4,3 +4,4 @@
 
 
 - PhD Working Book (6) - p.46 - Utilisation de la cartographie de données pour organiser les données 
+- PhD Working Book (6) p.78-83 - Analyse du design de la plateforme de Grenoble
