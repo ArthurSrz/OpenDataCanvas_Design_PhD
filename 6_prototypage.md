@@ -5,3 +5,5 @@
 ## 6.2.1 Objectifs du prototype
 
 ## 6.2.2 Sélectionner les fonctions
+
+- PhD Working Book (7) - p.36-39 - Réunion pour lancer les activités de prototypage du Canvas
