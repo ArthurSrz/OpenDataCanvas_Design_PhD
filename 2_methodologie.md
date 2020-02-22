@@ -30,4 +30,5 @@ Figure. Intervention en Systèmes d'Information
 ### 2.1.2 Principes opérationnels 
 
 - PhD Working Book (5) - p.45-53 - Utilisation de pattern de recherche ? 
+- PhD Working Book (7) - p.10-13 - Positionnement sur l'évaluation du produit/process de la recherche
 
