@@ -83,7 +83,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 
 ### 1.2.1 Innovation de services 
 
-- PhD Working Book (7) - p.55-57 - Premier mindmap sur la littérature "classique" sur l'innovation de services
+- PhD Working Book (7) - p.55-57/60-63 - Premier mindmap sur la littérature "classique" sur l'innovation de services
 - PhD Working Book (2) - p.20-24 - Perspectives sur l'innovation de services
 - Conclusion sur le centrage autour du schéma d'assemblage de Kuk et Davies (2011) + petits mains de l'open data et études STS (Denis) + PhD Working Bool (2) - p.24-26 - Différentes descritpions des interactions en jeu dans l'innovation de services + PhD Working Book (3)- p.16-19 précisions feedback & collaboration 
 - PhD Working Book (3) - p.58-66 - La réutilisation ou l'autre nom de l'innovation
