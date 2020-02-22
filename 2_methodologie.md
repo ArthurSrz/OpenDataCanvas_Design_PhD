@@ -27,6 +27,8 @@ Ces modifications se font à travers des interventions en Systèmes d'Informatio
 Figure. Intervention en Systèmes d'Information
 
 - PhD Working Book (7) - p.8-9 - Choix sur la géométrie du concept de Système d'Information
+- PhD Working Book (7) - p.13-15 - Choix sur la définition du résultat d'une méthodologie de Design Science Research
+
  
 
 
