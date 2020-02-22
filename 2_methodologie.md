@@ -26,7 +26,7 @@ Ces modifications se font à travers des interventions en Systèmes d'Informatio
 ![Figure. Intervention en Systèmes d'Information](http://opendatatales.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-21-at-17.28.31.png)
 Figure. Intervention en Systèmes d'Information
 
-- PhD Working Book (7) - p.22-26 - Citations sur Carlsson (2010)
+- PhD Working Book (7) - p.22-26/31-35 - Citations sur Carlsson (2010)
 - PhD Working Book (7) - p.8-9 - Choix sur la géométrie du concept de Système d'Information
 - PhD Working Book (7) - p.13-15 - Choix sur la définition du résultat d'une méthodologie de Design Science Research
 
