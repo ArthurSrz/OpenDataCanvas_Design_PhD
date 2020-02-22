@@ -2,4 +2,4 @@
 
 ## 7.2.4 Design du détail de l'évaluation
 
-- Préparation évaluation de Space par le DSI du Grand Lyon
+- PhD Working Book (7) - p.76 - Préparation évaluation de Space par le DSI du Grand Lyon
