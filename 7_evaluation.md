@@ -2,5 +2,7 @@
 
 ## 7.2.5 Réalisation de l'évaluation 
 
-- PhD Working Book (7) - p.101-106 - Evaluation de l'artefact auprès du DSI du Grand Lyon
+- PhD Working Book (7) - p.101-106 - Evaluation de l'artefact (produit) auprès du DSI du Grand Lyon
+- PhD Working Book (7) - p.109-112 - Evaluation de l'artefact (process) auprès de Ma Petite Poubelle
+
 
