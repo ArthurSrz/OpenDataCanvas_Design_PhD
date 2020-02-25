@@ -53,7 +53,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li>Hogan (2017)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td></td>
         </tr>
