@@ -11,6 +11,8 @@ Nous avons mené des évaluations dans le but d'estimer successivement la capaci
 - PhD Working Book (5) p.111-113 - Feedback RGCS sur méthodo
 - PhD Working Book (7) p.72-75 - Construction de l'évaluation process auprès AIM Nantes
 - PhD Working Book (7) p.88 - Feedback évaluation process - Consortium doctoral AIM Nantes
+- PhD Working Book (7) - p.98 - Feedback sur la nature des kernel theories à solliciter
+
 
 
 
