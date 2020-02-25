@@ -9,3 +9,4 @@
 ## 6.2.3 Construction du prototype
 
 - PhD Working Book (4) - p.41-43 - Prototypage manifeste 
+- PhD Working Book (8) - p. 31 - Prototypage des ressources du Canvas
