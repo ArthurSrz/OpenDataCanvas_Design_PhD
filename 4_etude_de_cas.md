@@ -9,5 +9,6 @@
 - PhD Working Book (6) p.52-53 - Collecte de données (en rouge) pour parler des espaces de données/Open Data Work
 - PhD Working Book (6) p.78-83 - Analyse du design de la plateforme de Grenoble
 - PhD Working Book (6) p.84-99 - Description d'une architecture SI (urbanisation) + description SIT (métropôle grenobloise)
+- PhD Working Book (7) p.113-114 - Entretien avec urbaniste des SI de la ville de Grenoble
 
 
