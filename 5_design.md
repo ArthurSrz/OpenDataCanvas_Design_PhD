@@ -4,24 +4,6 @@
 
 Synthèse des besoins identifiés après les entretiens semi-directifs : [une cartographgie des savoir-faire](http://opendatatales.com/un-tour-de-france-de-lopen-data-vers-une-cartographie-des-savoir-faire-des-territoires-intelligents/)
 
-## 5.2.1 Construction des propositions de design 
+## 5.2.3 Design du système
 
-## 5.2.2 Construction des principes de design 
-
-### Canevas général du principe de design : concept de middleground + théorie de l'adoption (Fountain) + Policy work (Colebatch) + théorie de la structuration 
-
-**Concept du middleground et du travail cognitif de constitution d'une communauté épistémique**
-
-- PhD Working Book (3) - p.49-57 - Synthèse des travaux de Cohendet et al. (2012)
-
-**Théorie de l'adoption (Fountain)**
-
-- PhD Working Book (4) - p.102 - Pq théorie de l'adoption est intéressante 
-
-**Policy Work (Colebatch+ Ruijer)**
-
-- PhD Working Book (5) - p.168-172 - Première apparition de cex travaux dans l'architecture de recherche
-
-**Théorie de la structuration**
-
-- PhD Working Book (6) - p.16-17 -  Introduction à Giddens 
+- PhD Working Book (8) - p.10-15 - Forme générale de l'artefact et justification par rapport au cadre conceptuel
