@@ -7,3 +7,4 @@
 - PhD Working Book (6) p.78-83 - Analyse du design de la plateforme de Grenoble
 - PhD Working Book (8) p.58-59/66-70 - Techniques à appliquer pour donner un deuxième sens aux données.
 - PhD Working Book (8) p.66-67/81-83 - Techniques à appliquer pour donner un deuxième sens aux données.
+- PhD Working Book (8) p.90-94 - Technique de construction des codes.
