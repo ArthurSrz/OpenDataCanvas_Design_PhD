@@ -87,6 +87,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 - PhD Working Book (2) - p.20-24 - Perspectives sur l'innovation de services
 - Conclusion sur le centrage autour du schéma d'assemblage de Kuk et Davies (2011) + petits mains de l'open data et études STS (Denis) + PhD Working Book (2) - p.24-26 - Différentes descritpions des interactions en jeu dans l'innovation de services + PhD Working Book (3)- p.16-19 précisions feedback & collaboration 
 - PhD Working Book (7) - p.154-159 - Centrer innovation de services autour de la relation de service (Denis et Pontille, Travalleurs de l'écrit, matières de l'information)
+- - PhD Working Book (8) - p.1-4 - Couture (2012) - Suite sur la définition et la nature de l'OD Work
 - PhD Working Book (7) - Référence à Boutet (2001) avec exemple d'une relation de service et de la place des données 
 - PhD Working Book (3) - p.58-66 - La réutilisation ou l'autre nom de l'innovation
 - PhD Working Book (5) - p.57-58 - Démonstration de la différence entre l'utilisation et la réutilisation
