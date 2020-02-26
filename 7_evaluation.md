@@ -1,5 +1,6 @@
 # 7. Quasi-expérimentations visant à évaluer la capacité d'Innodata à orchestrer les interactions entre les opérateurs de l'open data et les *data spaces*
 
-## 7.3.4 Design du détail de l’évaluation
+## 7.3.5 Réalisations
 
-- PhD WorkBook (5) - p.189-190 - Reprendre le design des quasi-expérimentations de Zuiderwijk
+- PhD Working Book (9) - p.176-177 - Evaluation de la méthodo TransfoData
+
