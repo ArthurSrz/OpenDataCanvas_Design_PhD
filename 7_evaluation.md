@@ -9,3 +9,4 @@
 - PhD Working Book (9) - p.237-238 - Pistes d'évaluation (Tuba)
 - PhD Working Book (9) - p. 254-260/284-285/ - Compréhension des challenge data - Construction de scénario
 - PhD Working Book (9) - p. 265 - Présentation d'Innodata auprès de Minalogic
+- PhD Working Book (9) - p.338 - Elements pour présenter Challenge data comme des expérimentations
