@@ -7,3 +7,4 @@
 ## 6.2.2 Sélectionner les fonctions
 
 - PhD Working Book (7) - p.36-39 - Réunion pour lancer les activités de prototypage du Canvas
+- PhD Working Book (9) - p.99-102 - Résumé des fonctions et lien avec cadre conceptuel
