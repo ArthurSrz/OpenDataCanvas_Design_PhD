@@ -38,3 +38,7 @@ Le choix de l’étude de cas est particulièrement adapté pour répondre aux s
 **Auto-évaluation de la qualité scientifique de l'étude de cas**
 
 - PhD Working Book (6) - p.8-14 - Inspiration de Zuiderwijk
+
+**Utilisation des scenario**
+
+Carroll (2000), _Scenario-based design_
