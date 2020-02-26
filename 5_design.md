@@ -8,3 +8,4 @@ Synthèse des besoins identifiés après les entretiens semi-directifs : [une ca
 
 - PhD Working Book (8) - p.10-15 - Forme générale de l'artefact et justification par rapport au cadre conceptuel
 - PhD Working Book (9) - p.99-102 - Résumé des fonctions et lien avec cadre conceptuel
+- PhD Working Book (9) - 266-269 - Inspiration pour le meta-design et architecture globale
