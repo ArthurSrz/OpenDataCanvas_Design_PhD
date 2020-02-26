@@ -25,3 +25,4 @@ Synthèse des besoins identifiés après les entretiens semi-directifs : [une ca
 **Théorie de la structuration**
 
 - PhD Working Book (6) - p.16-17 -  Introduction à Giddens 
+- PhD Working Book (9) - p.363 - Explication du meta-design par la théorie de la structuration
