@@ -8,3 +8,4 @@
 - PhD Working Book (9) - p.209-210 - Evaluation de l'artefact (produit + process) auprès des Interconnectés.
 - PhD Working Book (9) - p.237-238 - Pistes d'évaluation (Tuba)
 - PhD Working Book (9) - p. 254-260 - Compréhension des challenge data - Construction de scénario
+- PhD Working Book (9) - p. 265 - Présentation d'Innodata auprès de Minalogic
