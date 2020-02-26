@@ -2,4 +2,4 @@
 
 ## 4.3.3 Analyse des données : entretiens avec les réutilisateurs et analyse des logs de la plateforme pour établir des parcours d'usage de la plateforme
 
-- PhD Working 
+- PhD Working Book (9) - p.49-57 - Description de la control task analysis pour analyser les méthodes à mettre en oeuvre nécessairement
