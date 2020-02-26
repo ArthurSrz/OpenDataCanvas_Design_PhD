@@ -5,5 +5,6 @@
 - PhD Working Book (7) - p.101-106 - Evaluation de l'artefact (produit) auprès du DSI du Grand Lyon
 - PhD Working Book (7) - p.109-112 - Evaluation de l'artefact (process) auprès de Ma Petite Poubelle
 - PhD Working Book (9) - p.62-63 - Evaluation de l'artefact (produit) auprès du DSI de la métropôle Grenoble-Alpes.
+- PhD Working Book (9) - p.209-210 - Evaluation de l'artefact (produit + process) auprès des Interconnectés.
 
 
