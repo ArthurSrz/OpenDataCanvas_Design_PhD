@@ -26,4 +26,4 @@ Synthèse des besoins identifiés après les entretiens semi-directifs : [une ca
 
 - PhD Working Book (6) - p.16-17 -  Introduction à Giddens 
 - PhD Working Book (9) - p.363 - Explication du meta-design par la théorie de la structuration
-- PhD Working Book (9) - p.374 - S'orienter vers l'adaptative structuration theory (Poole & De Sanctis) avec l'idée de recombinaison des structure (colle plus à l'idée de composants)
+- PhD Working Book (9) - p.374 - S'orienter vers l'adaptative structuration theory (Poole & De Sanctis, 2004) avec l'idée de recombinaison des structure (colle plus à l'idée de composants)
