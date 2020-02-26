@@ -102,4 +102,5 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
 - PhD Working Book (4) - p. 101-102 - Faible performance des plateformes de deuxième génération  
 - PhD Working Book (1) - Plateformes de deuxième génération - Alewopoulos et al. (2014) - p.34
 - PhD Working Book (8) - p.47 - Plateformes de collaboration (Hogan, 2017)
+- PhD Working Book (9) - p.364 - Application du concept de plateforme auto-poietique
 
