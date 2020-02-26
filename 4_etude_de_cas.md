@@ -12,3 +12,4 @@
 - PhD Working Book (9) - p.23-31 - Description du type de codage choisi + Etape 2 + Structure interne du codage mettant en lumière l'Open Data Work
 - PhD Working Book (9) - p.32-48 - Description de la Work domain analysis qui permet d'analyser les plateformes + SI.
 - PhD Working Book (9) - p.72-75 - Changement du système de code au fur et à mesure.
+- PhD Working book (9) - p.85-90 - Structure interne du code.
