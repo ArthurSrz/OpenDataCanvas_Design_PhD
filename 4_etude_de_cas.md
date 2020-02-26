@@ -10,3 +10,4 @@
 - PhD Working Book (8) p.90-94 - Technique de construction des codes + Etape 1 : liste initiale de code
 - PhD Working Book (9) p.1-14 - Suite étape 1 : liste initiale de codes + Etape 2 : Changement du système de code au fur et à mesure de la collecte de données 
 - PhD Working Book (9) - p.23-31 - Description du type de codage choisi + Etape 2 + Structure interne du codage mettant en lumière l'Open Data Work
+- PhD Working Book (9) - p.32-48 - Description de la Work domain analysis qui permet d'analyser les plateformes + SI.
