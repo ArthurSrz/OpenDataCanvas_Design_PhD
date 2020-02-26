@@ -92,3 +92,4 @@ PhD Working Book (1) - 2017 (p.15-19)
 - PhD Working Book (2) - p.12-19 - Débat sur les différentes définitions des écosystèmes Open Data
 - PhD Working Book (6) - p. 57-58 - Démonstration de la richesse de la métaphore de l'écosystème
 - PhD Working Book (9) - p.221-222 - Papiers sur les écosystèmes naissants et la création d'écosystème
+- PhD Working Book (9) - p.239-246 - Revue de littérature sur la génèse des écosystèmes
