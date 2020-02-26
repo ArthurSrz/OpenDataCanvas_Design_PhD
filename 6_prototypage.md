@@ -1,4 +1,4 @@
 # Prototypage d'une intervention en système d'information à partir des kernel theories et permettant de faciliter les interactions homme-données
 
 - PhD Working Book (7) - p.94 - Méthode de prototypage d'une application avec Glide
-- PhD Working Book (9) - p.95-96/113 - Prototypage d'une méthode 
+- PhD Working Book (9) - p.95-96/113/123-128 - Prototypage d'une méthode 
