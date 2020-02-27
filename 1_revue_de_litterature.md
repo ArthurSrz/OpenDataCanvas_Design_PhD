@@ -3,7 +3,7 @@
 ### 1.1.1 Revue des définitions du phénomène et du concept de smart city
 
 
- Synthèse | 
+ Résumé | 
 ------------ | 
 Il sera question dans cette première sous-partie de faire état des différentes conceptions du phénomène et du concept de smart city avant de justifier celle qui sera adoptée tout au long de cette thèse. | 
 
@@ -34,3 +34,10 @@ Dans cette thèse, il n’est pas question de concevoir la smart city en faisant
 
 ![Digital city/Smart city](http://opendatatales.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-27-at-13.14.24.png)
 ###### Figure 2 : place des données et infrastructures digitales dans la smart city. Source : Dameri, 2017
+
+Conclusion et transition | 
+------------ | 
+Dans cette partie, j’ai fait état des nombreuses définitions possibles du phénomène et du concept de smart city et identifié des deux invariants parmi elles : les infrastructures digitales et la donnée.
+
+Dans la prochaine partie, je me concentre sur l’invariant de la donnée et précise que les différents usages et modalités de circulation de la donnée sont les piliers de ma définition de la smart city.
+ | 
