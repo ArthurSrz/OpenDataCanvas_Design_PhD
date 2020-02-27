@@ -39,3 +39,16 @@ Conclusion et transition |
 ------------ | 
 Dans cette partie, j’ai fait état des nombreuses définitions possibles du phénomène et du concept de smart city et identifié des deux invariants parmi elles : les infrastructures digitales et la donnée. Dans la prochaine partie, je me concentre sur l’invariant de la donnée et précise que les différents usages et modalités de circulation de la donnée sont les piliers de ma définition de la smart city.
  | 
+
+
+### 1.1.2 La smart city comme fonction de l’usage et de la mise en circulation des données 
+
+#### La place des données et de leur usage dans les villes : premier pilier ma définition de la smart city 
+
+L’émergence des smart cities est corrélée à l’émergence de l’usage des données dans le gouvernement urbain. Celles-ci sont devenues une forme de peau digitale (digital skin) des villes (Rabari et Storper, 2015). Cette couche informationnelle est d’ailleurs ce qui fait consensus parmi toutes les définitions de la notion de smart city (Townsend, 2013). Courmont (2016) définit alors la smart city comme “l’usage généralisé des données numériques pour rationaliser la planification et la gestion des villes” (p.22). 
+
+Avant de nous plonger dans le phénomène de l’ouverture des données (open data), caractérisons ce qu’est la donnée dans un environnement urbain et quel est son usage. 
+Premièrement, une donnée n’est pas une entité immatérielle autonome qu’il suffirait de mettre en circulation pour voir se développer une smart city. Elle n’est pas le miroir digital de l’espace urbain. Plutôt, elle est le résultat d’un enchevêtrement d’acteurs, de dispositifs techniques et de conventions de mesures (Courmont, 2016). Ce processus de mise en données de l’espace urbain trahit les facteurs humains et techniques desquelles le donnée dépend et qu’elle modifie. Courmont (2016) sollicite la notion d’attachement conceptualisée par Bruno Latour (2000) et Antoine Hennion (2004) selon laquelle ce sont les liens avec des facteurs qui font exister la donnée, liens qui sont eux-mêmes modifiés par l’usage de la donnée. Courmont (2016) résume cette boucle récursive entre le donnée et son usage de la façon suivante : “ Les données ne sont pas un intermédiaire entre deux mondes déjà là mais une médiation qui façonne la ville autant que les collectifs qui s’y attachent” (p.52). Dans ce cadre, la donnée perd la neutralité qu’on lui prête au premier abord et devient un intermédiaire que les producteurs créent pour se représenter la réalité qui les intéresse et sur la base desquelles ils peuvent prendre des décisions, ce qui impactera la réalité mise en données, et ainsi de suite. Nous pouvons schématiser ce raisonnement de la façon suivante : 
+
+![boucle récursive](http://opendatatales.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-27-at-13.34.29.png)
+###### Figure : boucle récursive montrant l’influence mutuelle de la donnée sur les individus et des individus sur la donnée. Source : élaboration propre. 
