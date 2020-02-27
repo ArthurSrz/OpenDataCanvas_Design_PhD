@@ -94,6 +94,4 @@ Au-delà de l’usage des données, la smart city se comprend comme l’applicat
 
 Conclusion et transition | 
 ------------ | 
-Dans cette partie, j’ai posé l’usage et la mise en circulation de la donnée comme étant les deux piliers de ma définition de la smart city 
-
-Dans la prochaine partie, | 
+Dans cette partie, j’ai posé l’usage et la mise en circulation de la donnée comme étant les deux piliers de ma définition de la smart city. Dans la prochaine partie, | 
