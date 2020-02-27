@@ -37,8 +37,7 @@ Dans cette thèse, il n’est pas question de concevoir la smart city en faisant
 
 Conclusion et transition | 
 ------------ | 
-Dans cette partie, j’ai fait état des nombreuses définitions possibles du phénomène et du concept de smart city et identifié des deux invariants parmi elles : les infrastructures digitales et la donnée. Dans la prochaine partie, je me concentre sur l’invariant de la donnée et précise que les différents usages et modalités de circulation de la donnée sont les piliers de ma définition de la smart city.
- | 
+Dans cette partie, j’ai fait état des nombreuses définitions possibles du phénomène et du concept de smart city et identifié des deux invariants parmi elles : les infrastructures digitales et la donnée. Dans la prochaine partie, je me concentre sur l’invariant de la donnée et précise que les différents usages et modalités de circulation de la donnée sont les piliers de ma définition de la smart city.| 
 
 
 ### 1.1.2 La smart city comme fonction de l’usage et de la mise en circulation des données 
@@ -61,7 +60,40 @@ Dans ce cadre, la donnée perd la neutralité qu’on lui prête au premier abor
 ![boucle récursive](http://opendatatales.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-27-at-13.34.29.png)
 ###### Figure : boucle récursive montrant l’influence mutuelle de la donnée sur les individus et des individus sur la donnée. Source : élaboration propre.
 
+Courmont (2016)  applique ce raisonnement à travers l’exemple de la gestion du trafic routier dans la métropole du Grand Lyon : 
+
+1. Producteurs et objets techniques produisent de la donnée 
+
+Lorsqu’un véhicule passe à certains endroits de la ville, un signal est émis et capté par un capteur. Ce capteur est relié à un calculateur qui centralise et agrège les signaux pour produire une mesure du trafic. Ces données sont ensuite insérées dans des bases de données. 
+
+2. La donnée est transformée en information
+
+Ces données deviennent des informations quand on produit à partir de ces données des taux comparables et visualisables pour évaluer le trafic routier.
+
+3. Ces informations permettent de prendre des décisions
+
+Ces informations se transforment ensuite en plans stratégiques lorsqu’elles sont croisées avec les plans des feux utilisés pour réguler la circulation.
+
+4. Ces décisions impactent les producteurs et les objets techniques
+
+Ces plans sont ensuite transmis aux ordinateurs situés à chaque carrefour pour qu’ils puissent piloter les feux de manière à obtenir un écoulement optimal des véhicules. 
+
+Dès lors, nous pouvons définir la donnée urbaine comme l’intermédiaire grâce auquel un ensemble d’acteurs sont capables, par l’intermédiaire d’objets techniques, d’établir une représentation de l’espace urbain, de le transformer en information pour ensuite modifier ou influer sur l’évolution de cet espace. En filigrane, on retrouve l’idée selon laquelle les données urbaines qui nous intéressent dans le cadre de cette thèse sont des données spatialisées. Antoine Picon rappelle à ce titre que :  
+
+> "les villes intelligentes et leurs données ne sont pas des entitées éthérées qui tels des esprits voleraient au-dessus des rues et des bâtiments. Elles ont nécessairement une dimension locale, inséparables de leur environnement physique et des habitants qui y vivent” -  (Picon, 2015, p. 105)
+
+
+#### La mise en circulation des données dans la ville : deuxième pilier de ma définition de la smart city. 
+
+Au-delà de l’usage des données, la smart city se comprend comme l’application dans un cadre urbain du principe de “libéralisme informationnel” (Loveluck, 2015) selon lequel l’information et les données doivent être mobiles et circuler le plus librement possible dans l’espace urbain. A partir de cette variable, il n’est pas question de distinguer les smart cities où la circulation des données est fluide des dumb cities où la donnée resterait enfermée dans des silos organisationnels. Plutôt, ce sont les différentes déclinaisons du critère de circulation qui donnent au concept de smart city sa pluralité. Selon la typologie établie par Boullier (2016) nous pouvons établir 4 formes possibles à la smart city : 
+
+- La “good old city” où les données restent dans les silos traditionnels, chaque producteur de donnée restant le propriétaire exclusif de celle-ci
+- La “IBM city” qui est une ville piloté intégralement depuis un poste de centralisation captant tous les flux de données pour établir des tableaux de bord qui permettront de prendre les décisions les plus rationnelles pour le fonctionnement de la ville 
+- La “Google city” où toutes les données produites dans l’espace urbain sont mis en relation sans présumer d’aucun usage au préalable. Cette forme renvoie à une utilisation accentuée du big data dans la gestion des villes. 
+- La “Wiki city” où la ville repose cette fois-ci sur la collecte des contributions des citoyens. Une forme donc où la place du crowdsourcing est prépondérante pour prendre les décisions concernant le fonctionnement de la ville.
+
 Conclusion et transition | 
 ------------ | 
-Lorem ispum
- | 
+Dans cette partie, j’ai posé l’usage et la mise en circulation de la donnée comme étant les deux piliers de ma définition de la smart city 
+
+Dans la prochaine partie, ...| 
