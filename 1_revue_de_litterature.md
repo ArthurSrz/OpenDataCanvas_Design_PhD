@@ -43,6 +43,10 @@ Dans cette partie, j’ai fait état des nombreuses définitions possibles du ph
 
 ### 1.1.2 La smart city comme fonction de l’usage et de la mise en circulation des données 
 
+ Résumé | 
+------------ | 
+Lorem ipsum | 
+
 #### La place des données et de leur usage dans les villes : premier pilier ma définition de la smart city 
 
 L’émergence des smart cities est corrélée à l’émergence de l’usage des données dans le gouvernement urbain. Celles-ci sont devenues une forme de peau digitale (digital skin) des villes (Rabari et Storper, 2015). Cette couche informationnelle est d’ailleurs ce qui fait consensus parmi toutes les définitions de la notion de smart city (Townsend, 2013). Courmont (2016) définit alors la smart city comme “l’usage généralisé des données numériques pour rationaliser la planification et la gestion des villes” (p.22). 
@@ -55,4 +59,9 @@ Premièrement, une donnée n’est pas une entité immatérielle autonome qu’i
 Dans ce cadre, la donnée perd la neutralité qu’on lui prête au premier abord et devient un intermédiaire que les producteurs créent pour se représenter la réalité qui les intéresse et sur la base desquelles ils peuvent prendre des décisions, ce qui impactera la réalité mise en données, et ainsi de suite. Nous pouvons schématiser ce raisonnement de la façon suivante : 
 
 ![boucle récursive](http://opendatatales.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-27-at-13.34.29.png)
-###### Figure : boucle récursive montrant l’influence mutuelle de la donnée sur les individus et des individus sur la donnée. Source : élaboration propre. 
+###### Figure : boucle récursive montrant l’influence mutuelle de la donnée sur les individus et des individus sur la donnée. Source : élaboration propre.
+
+Conclusion et transition | 
+------------ | 
+Lorem ispum
+ | 
