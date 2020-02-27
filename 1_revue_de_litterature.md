@@ -96,6 +96,7 @@ Conclusion et transition |
 ------------ | 
 Dans cette partie, j’ai posé l’usage et la mise en circulation de la donnée comme étant les deux piliers de ma définition de la smart city. Dans la prochaine partie, | 
 
+
 #### Page 6
 
 Lorem ipsum dolor sit amet, facilis propriae delicata est eu, at cum periculis complectitur, his cu tale tritani eligendi. In pri affert fabellas, qui eu congue oblique. Pri cu unum solet consul, ius ex soleat debitis. Aliquam graecis pertinax usu et, ad clita nostrud eam. Et vix facete sanctus, omnis scaevola ea cum. Vis malorum similique at, omnis ullum feugiat nec at, est movet iriure scaevola te. Et audire fastidii molestiae duo.
@@ -177,3 +178,5 @@ Ius sanctus facilisi vituperata ei, eius ipsum consul ne vel. No per ocurreret c
 Ridens moderatius mel ut. Sed quot probo temporibus ei, quo tale adhuc doctus ne. Ne nam probo dicit. In pro equidem iracundia, nisl error ludus te nam, an vim brute delenit. Diceret noluisse incorrupte ne nam, et sed utamur sanctus assentior, dolore causae id pri. Copiosae consequat ius id, elitr gloriatur ius ad. Te choro molestiae qui.
 
 Sed no tota ipsum ancillae, veri ullum inermis pro id, quando scripta has ne. Pro electram complectitur ei. Te mei insolens dignissim, et tota soluta omnesque nam, sale oratio dolores te sea. Ignota postulant usu an. Oblique voluptua mei cu, est instructior necessitatibus cu. Everti mollis quo ea, oporteat deterruisset eu vel.
+
+
