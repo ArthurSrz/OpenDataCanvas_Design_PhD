@@ -37,7 +37,5 @@ Dans cette thèse, il n’est pas question de concevoir la smart city en faisant
 
 Conclusion et transition | 
 ------------ | 
-Dans cette partie, j’ai fait état des nombreuses définitions possibles du phénomène et du concept de smart city et identifié des deux invariants parmi elles : les infrastructures digitales et la donnée.
-
-Dans la prochaine partie, je me concentre sur l’invariant de la donnée et précise que les différents usages et modalités de circulation de la donnée sont les piliers de ma définition de la smart city.
+Dans cette partie, j’ai fait état des nombreuses définitions possibles du phénomène et du concept de smart city et identifié des deux invariants parmi elles : les infrastructures digitales et la donnée. Dans la prochaine partie, je me concentre sur l’invariant de la donnée et précise que les différents usages et modalités de circulation de la donnée sont les piliers de ma définition de la smart city.
  | 
