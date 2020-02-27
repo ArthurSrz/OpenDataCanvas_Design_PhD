@@ -1,86 +1,29 @@
-- [X] S'inspirer du découpage de Bogers et al. (2016) Landscape of Open Innovation
-
-Dans ce chapitre, nous effectuerons une revue de littérature visant à fournir une image critique des différents courants qui irriguent la recherche sur l'innovation de services issue de l'open data. Notre raisonnement réutilisera le pattern de *framework development* développé par Vaishnavi et Kuelcher (2015, p. 115) et qui suggère au chercheur d'effectuer une analyse morphologique (Zwicky, 1967) des informations dans un domaine. Plus concrètement, il s'agit d'utiliser un framework visuel permettant de classifier les contenus scientifiques dont nous nous sommes imprégnés. A la lecture de ce framework, il est possible d'identifier morphologiquement un gap de recherche dans les zones du domaine étudié. 
-- [ ] Lister les étapes du pattern ?
-
-Nous utiliserons ici le framework multi-niveau développé par Bogers et al. (2016) pour classifier la littérature sur le concept d'open innovation (Chesbrough, 2003). Il distingue 5 niveaux/unités d'analyse permettant de classer les déterminants, process et résultats d'un phénomène : 
-
-- le niveau intra-organisationnel
-- le niveau organisationnel
-- le niveau extra-organisationnel
-- le niveau inter-organisationnel
-- le niveau industriel, territorial et sociétal
-
-A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte les travaux qui superposent plusieurs niveaux d'analyse, et un septième pour lister les travaux reconnaissant une tension paradoxale (K. Smith et al., 2017) entre les différents niveaux d'analyse. Par tension paradoxale, nous entendons que "les différents niveaux d'analyse se confrontent les uns aux autre de manière contradictoire tout en étant nécessairement interdépendants" (K. Smith et al., 2017, p.305)
-
-
-
-<table>
-    <thead>
-        <tr>
-            <th>Concept/Unité d'analyse</th>
-            <th>Intra-organisationnel</th>
-            <th>Organisationnel</th>
-            <th>Extra-organisationnel </th>
-            <th>Inter-organisationnel</th>
-            <th>Industriel, territorial et sociétal</th>
-            <th>Superposition des niveaux d'analyse</th>
-            <th>Tension paradoxale entre les niveaux d'analyse</th>
-        </tr>
-    </thead>
-    <tbody>
-      <tr>
-           <tr>
-            <td>Objets de recherche possibles</td>
-               <td><ul><li>Individuel</li>Groupe/Equipe<li>Projet</li><li>Aire fonctionnelle</li><li>Business unit</li></ul></td>
-            <td><ul><li>Entreprise</li><li>Autre organisation</li><li>Stratégie</li><li>Business model</li></ul></td>
-            <td><ul><li>Parties prenantes externes</li><li>Individus</li><li>Communauté</li><li>Organisation</li></ul></td>
-            <td><ul><li>Alliance</li><li>Réseau</li><li>Ecosystème</li></ul></td>
-            <td><ul><li>Développement d'une industrie</li><li>Différences inter-industrielles</li><li>Régions locales</li><li>Pays</li><li>Institutions supra-étatiques</li><li>Citoyens</li><li>Politique publique</li></ul></td>
-            <td>Combinaisons des niveaux précédents</td>
-            <td>Niveaux contradictoires et interdépendants</td>
-        </tr>
-            <td>Smart city</td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li>Curry et al. (2015)</li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-           <td><ul><li>Masure (2017) - PhD Working Book (1) - p.67-69</li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-        </tr>
-        <tr>
-            <td>Plateforme de services</td>
-            <td><ul><li>Le Corf (2016)</li><li>Eckelberg et al. (2018)</li><li>Dissémination (Loveluck, 2015)</li><li>Zhu et Freeman (2018)</li><li></li><li></li></ul></td>
-            <td><ul><li>Courmont (2015)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li>Cathedral model (Raymond, 1999)</li><li>Cognitivist platform (Danneels, 2017)</li><li>Captation (Loveluck, 2015)</li><li>Schweik (2006)</li><li> </li><li></li></ul></td>
-            <td><ul><li>Bourcier (2013)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>IRM (2015)</li><li>Ojo et al. (2015)</li><li>Carrara et al.(2015)</li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Connectionist platform (Danneels, 2017)</li><li>Jetzek et al.(2014) OGD data-driven innovation mechanisms</li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Peixoto (2007)</li><li>Villum (2014)</li><li>Attour et Rallet (2014)</li><li>Bazaar model (Raymond, 1999)</li><li>Aupoietic platofrm (Dannels, 2017)</li><li>Auto-institution (Loveluck, 2015)</li><li></li></ul></td>
-        </tr>
-        <tr>
-            <td>(Open) Data</td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li>McLeod et Mc Naughton (2016)</li><li>Zuiderwijk (2015)</li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Ruppert (2012)</li><li>Denis et Goeta (2013)</li><li>Goeta (2016)</li><li>Flyverbom et Murray (2018)</li><li>Dawes et al. (2016)</li><li></li></ul></td>
-            <td><ul><li>Ojo et al. (2015)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Yu (2016) - PhD Working Book (1)/p.43-46</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-        </tr>
-        <tr>
-            <td>Ecosystème open data</td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-    <td><ul><li>Gouvernance ville-PhD Working Book (p.59-60)</li><li>Lee (2014)</li><li>Pollock (2011)</li><li>O'Reilly (2011)</li><li> </li></ul></td>
-            <td><ul><li>McLeod et Mc Naughton (2016)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Welle Donker et van Loenen (2017)</li><li>Dawes et al. (2016)</li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Harrison et al. (2012)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-        </tr>
-
-   
-</table>
-
 ## 1.1 Smart city
+
+### 1.1.1 Revue des définitions du phénomène et du concept de smart city
+
+
+ Synthèse | 
+------------ | 
+Il sera question dans cette première sous-partie de faire état des différentes conceptions du phénomène et du concept de smart city avant de justifier celle qui sera adoptée tout au long de cette thèse. | 
+
+#### Le phénomène des smart city : histoire et limites.
+
+A l’origine, la smart city se définissait par la mise à disposition de services au sein des villes grâce aux NTIC (Ishida et Isbister, 2000). Puis le périmètre de recherche s’est étendu, prenant en compte l’infrastructure matérielle (hard infrastructure) et immatérielle (soft infrastructure) nécessaire au développement de ces villes (Batty et al., 2012). Enfin, les études sur les éléments immatériels se sont multipliées, faisant place au concept de ville solidaire et durable (Deakin, 2009), génitrice de la smart city telle que nous l’avons définie, au sein de laquelle les relations entre citoyens, technologies et services sont plurielles et multidirectionnelles et aboutissent à la création de services permettant de mieux coordonner le fonctionnement de la communauté urbaine.
+
+Pour Harrison et al. (2010), une ville est intelligente lorsqu’elle met en relation des infrastructures physiques, sociales, économiques ainsi que des technologies de l’information pour améliorer l’intelligence collective de la ville. Giffinger et al. (2007) proposent six piliers pour définir le concept de Smart City : 
+ 
+
+- **Smart Economy** : la ville doit d’encourager l’innovation, et le développement des entreprises au sein de son tissu économique. 
+- **Smart People** : elle doit investir dans son capital humain et social, en élevant le niveau d’éducation et de qualification de ses habitants
+- **Smart Governance** : elle doit mettre en place une démarche incluant ses concitoyens dans sa prise de décision. 
+- **Smart Mobility** : elle doit encourager des moyens de transport innovants, collectifs et durables
+Smart Environment : elle est responsable du management de ses propres ressources 
+- **Smart Living** : elle améliore de la qualité de vie de ses citoyens, notamment grâce à des structures culturelles et éducatives riches.
+
+Si les smart-city ont, par définition, toutes lancées des initiatives relatives à ces 6 piliers, aucune d’entre elles n’a construit de vision stratégique visant à développer des passerelles entre ces 6 piliers pour aboutir à un modèle intégré de développement (Climate group, Information marketplaces : the new economics of cities, 2011). Autrement dit, la mise en relation des infrastructures qui constitue le coeur de l’intelligence d’une ville selon Harrison et al. (2010) se fait attendre. En effet, cette coordination peine à se mettre en place du fait notamment du fonctionnement en silos des villes où les différents acteurs communiquent peu entre-eux, où la technologie reste le pré-carré de la direction des Systèmes d’Information des acteurs et où les besoins du citoyen sont rarement pris en considération.   
+ 
+#### Le concept de smart city : une notion ombrelle
+
+Dans ses travaux, Silva-Morales (2017) rappelle que la littérature académique sur les smart city est relativement récente puisque qu’elle a vu son essor à partir des années 2010 quand l’union européenne a commencé à employer ce terme pour désigner tous les projets concernant le développement durable des espaces urbains (p. 6). La caractère contemporain de cette notion participe à expliquer le flou qui règne autour de cette notion et l’absence de définition établie. Pour dresser le panorama des diverses définitions de ce concept, Silva-Morales (2017) emprunte à Dameri (2017) l’idée de smart city comme notion umbrella “x-city”, où “le x prend une signification différente en fonction de l’intégration de l’innovation et de la technologie dans les initiatives” (p.7). A partir de cette variable clé, elle aboutit à la schématisation ci-dessous des différentes conceptions de la notion de smart city au coeur de laquelle elle place une définition générique de la smart city : “notion ombrelle à géométrie variable configurée ad hoc selon la/les dimension/s mobilisée/s prioritairement dans un territoire (e.g. technologique, environnementale, etc.)”
+    
