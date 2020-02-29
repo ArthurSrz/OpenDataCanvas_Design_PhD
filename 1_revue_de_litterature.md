@@ -59,6 +59,20 @@ Le contrôle du process par lequel le propriétaire de la plateforme flèche des
 
 Enfin, selon l’approche de la gouvernance par le partage des intérêts, la gouvernance de la plaforme revient à distribuer les droits de la propriété de la plateforme et d’établir dans quelle mesure la propriété est partagée entre plusieurs acteurs (Eisenmann et al., 2006)
 
+#### Les mécanismes de gouvernance de plateformes spécifiques aux smart city
+
+Selon Lusch et Nambisan (2015), Il existe 3 types de parties prenantes investies dans les plateformes de services : les architectes, les acteurs et les bénéficiaires.
+
+![Parties prenantes des plateformes smart city](http://opendatatales.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-01-at-00.08.31.png)
+##### Figure 5 : typologie des parties prenantes impliquées dans les mécanismes de gouvernance de la plateforme de services des Smart city.
+
+Selon Lusch et Nambisan (2015), Il existe 3 types de parties prenantes investies dans les plateformes de services : les architectes, les acteurs et les bénéficiaires.
+
+Les architectes créent l’architecture de participation qui clarifie la façon dont la co-création de valeur se déroule et la façon dont cette valeur est répartie entre les acteurs. Autrement dit, ils mettent en place une road map stratégique, soit une direction à suivre par tous les acteurs impliqués dans l’écosystème de services. Aussi créent-ils les mécanismes de gouvernance permettant de piloter le fonctionnement et l’évolution de l’écosystème de services vers les objectifs fixés par la road map stratégique. 
+
+Les acteurs ont, de leur côté, les moyens techniques et les compétences pour exploiter les ressources présentes sur la plateforme dans le but de co-créer des services. Ils peuvent occuper trois rôles : idéateur, designer et intermédiaire. Les idéateurs apportent des connaissances sur l’écosystème, ses besoins et les offres de services existantes. Les designers créent des services à partir de nouvelles configurations de ressources. Enfin, les intermédiaires créent des synergies entre les différentes parties de l’écosystème. Ces acteurs constituent les premiers utilisateurs des mécanismes de gouvernance et participent à leur construction dans le cas des plateformes ouvertes.
+
+Enfin, les bénéficiaires font l’expérience de la valeur créée par les services selon 4 types d’expériences : l’expérience pragmatique, l’expérience socialisante, l’expérience d’usage et l’expérience hédonique (Nambisan & Nambisan, 2008). Cette valeur se matérialise finalement pour les bénéficiaires par une amélioration de leur qualité de vie.  
 
 
 #### Les 3 générations de plateformes Open Data
