@@ -83,6 +83,53 @@ Les acteurs ont, de leur côté, les moyens techniques et les compétences pour 
 
 Enfin, les bénéficiaires font l’expérience de la valeur créée par les services selon 4 types d’expériences : l’expérience pragmatique, l’expérience socialisante, l’expérience d’usage et l’expérience hédonique (Nambisan & Nambisan, 2008). Cette valeur se matérialise finalement pour les bénéficiaires par une amélioration de leur qualité de vie.  
 
+#### Origines du manque d'implication des villes dans la réutilisation des données ouvertes et émergence de politiques de réutilisation
+
+ Résumé | 
+------------ | 
+Dans cette partie, il sera question tout d’abord de pointer du doigt le postulat implicite à l’origine du du manque d’implication des villes dans la réutilisation de leurs données ouvertes avant de reprendre les catégories de politiques de réutilisation instaurées par Courmont (2016). Nous visons ici à développer plus en profondeur l’idée évoquée dans la partie précédente selon laquelle les acteurs publics rencontrent de nombreuses difficultés pour faciliter la réutilisation des données en open data, quand ils ne laissent pas complètement cet aspect hors de leur agenda | 
+
+A l’origine du mouvement de l’open data on retrouve l’idée selon laquelle une fois les données mises en open data, elles seraient réutilisées et transformées en innovation, avec à la clé de la création de valeur économique (Chignard, 2013). On trouve ce postulat pour la première fois dans un rapport de la commission européenne de 2006, intitulé Measuring European Public Sector Information Resources (Dekkers et al., 2006) et qui estime que l’open data et les informations publiques pourraient créer un marché estimé à 40 milliards d’euros par an. 
+
+Nous décrirons ici la logique construite par la commission européenne pour venir supporter cette estimation (figure ci-dessous).
+
+![Logigramme](http://opendatatales.com/wp-content/uploads/2020/03/Document-de-travail-Revue-de-littérature-Mars-2019.png)
+##### Figure 6. logigramme établissant le lien entre l’offre de données, la demande de données et les résultats économiques de l’open data (Dekkers et al., 2006)
+
+En premier lieu, la commission européenne identifie trois rôles que les organisations impliquées dans l’open data peuvent jouer : 
+
+1. Fournisseur public de données : tout organismes public ou organisme régit par le droit public qui fournit des données à un marché. 
+2. Réutilisateur de données : les organismes (hors secteur public) qui fournissent de l’information au marché. 
+3. Utilisateur : toute personne ou organisation utilisant les informations fournies par les réutilisateurs. 
+
+Puis, elle articule les relations entre ces rôles en suivant une logique constituée de 5 conditions cadres, et de 2 types d’impact économiques. Les premières correspondent à des principes généraux s’appliquant à l’offre de données et d’informations tandis que les seconds ont traits aux conséquences économiques de l’application des principes généraux (description ci-dessous) 
+
+<table>
+	<tr>
+            <td rowspan= "5">Conditions cadres</td>
+            <td>1.Si les données ne sont pas disponibles pour les réutilisateurs alors il n’y aura pas de marché  </td>
+	</tr>
+	<tr>
+	     <td>2. Si les données disponibles ne sont pas accessibles, alors il ne peut y avoir de réutilisations </td>
+	</tr>
+	<tr>
+	     <td>3. Si les conditions de réutilisation des données ne sont pas transparentes, alors l’accessibilité perd tout son sens et il ne pourra y avoir de marché lié à la réutilisation des données </td>
+	</tr>
+	<tr>
+	     <td>4. Les producteurs de données sont responsables et doivent rendre des comptes vis à vis des 3 premiers points</td>
+	</tr>
+	<tr>
+	     <td>5. Les 4 premiers points doivent être respectés et ce, quelque soit le réutilisateur </td>
+	</tr>
+	<tr>
+            <td rowspan= "5">Impacts économiques</td>
+            <td>6. L’égalité et l’équité face aux données/informations publiques stimulera la demande actuelle de données et d’informations </td>
+	</tr>
+	<tr>
+	     <td>7. Cette demande se traduira éventuellement par des résultats économiques directs (plus de chiffre d’affaire pour les réutilisateurs) et indirecteurs (plus d’activités commerciales basées sur la réutilisation des informations publiques)  </td>
+	</tr>
+
+</table>
 
 #### Les 3 générations de plateformes Open Data
 
