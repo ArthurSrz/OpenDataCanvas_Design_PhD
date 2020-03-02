@@ -104,3 +104,23 @@ Les 4 artefacts supports décrits ci-dessous ont permis de cadrer le développem
 Conclusion et transition | 
 ------------ | 
 Après avoir fait état des approches permettant de caractériser les parties prenantes de l’open data comme un écosystème, j’établis dans cette sous-partie les approches qui donne cette fois-ci une vision dynamique du fonctionnement de ces écosystèmes. | 
+
+#### Les différentes approches pour comprendre les dynamiques des écosystèmes open data 
+
+**L’approche par les chaînes de valeur**
+
+Le fonctionnement empirique de l’écosystème Open-data peut se modéliser sous la forme d’une chaîne de valeur au sein de laquelle chaque acteur apporte ses capacités (Cosgrave, 2013). Le Climate group dans son rapport Climate group, Information marketplaces : the new economics of cities utilise la suivante (figure ci-dessous).
+
+![chaîne](http://opendatatales.com/wp-content/uploads/2020/03/Document-de-travail-Revue-de-littérature-Mars-2019-1.png)
+##### Figure 14 : chaîne de valeur de la construction de services au sein d’une smart city (d'après Climate group, 2011)
+
+Du point de vue de la chaîne de valeur, l'écosystème open data adopte ce que Raymond (1999) appelle une approche “cathédrale”, c’est à dire une approche centralisée «soigneusement élaborée par des sorciers individuels ou de petites bandes de mages travaillant dans un isolement splendide». Cependant, nous ne pouvons identifier aucune institution organisant l'écosystème des données ouvertes de cette façon dans les Smart City. 
+
+**L’approche bazar**
+
+Plutôt, nous comparerons dans cette thèse l’écosystème Open data à l'écosystème du logiciel libre qui « ressemble à un grand bazar rassemblant des ordres du jour et des approches différentes ». En effet, les parties prenantes des données ouvertes proviennent de différents horizons et leur action collective est totalement inorganisée. Comme Raymond (1999) nous considérerons que l’écosystème Open Data “se comporte à bien des égards comme un marché libre ou une écologie, une collection d'agents égoïstes qui tentent de maximiser l'utilité, ce qui produit un ordre spontané autocorrecteur plus élaboré et efficace que n'importe quelle quantité de planification centrale aurait pu réaliser. La fonction d'utilité que chaque contributeur maximise n'est pas économique, mais plutôt celle, intangible, de sa satisfaction et de sa réputation parmi les autres contributeurs” (Raymond, 1999).
+
+Cette approche est confirmée par Le Corf (2016) qui note une grande diversités de statuts des développeurs engagés dans l’utilisation des données ouvertes ainsi qu’un trait de personnalité commun chez eux qui veut que “la motivation économique (soit) secondaire par rapport à la reconnaissance (par ses pairs) et l’usager final de l’utilité des services créés” 
+
+Ce qui rend cet écosystème si efficace, malgré le manque de centralisation et d'organisation, est un ensemble de règles de gouvernance (Raymond, 1999). Dans cette thèse, nous avons sélectionné ceux qui sont pertinents pour l'écosystème Open data. 
+
