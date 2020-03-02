@@ -103,29 +103,29 @@ En premier lieu, la commission européenne identifie trois rôles que les organi
 Puis, elle articule les relations entre ces rôles en suivant une logique constituée de 5 conditions cadres, et de 2 types d’impact économiques. Les premières correspondent à des principes généraux s’appliquant à l’offre de données et d’informations tandis que les seconds ont traits aux conséquences économiques de l’application des principes généraux (description ci-dessous) 
 
 <table>
-	<tr>
-            <td rowspan= "5">Conditions cadres</td>
-            <td>1.Si les données ne sont pas disponibles pour les réutilisateurs alors il n’y aura pas de marché  </td>
-	</tr>
-	<tr>
-	     <td>2. Si les données disponibles ne sont pas accessibles, alors il ne peut y avoir de réutilisations </td>
-	</tr>
-	<tr>
-	     <td>3. Si les conditions de réutilisation des données ne sont pas transparentes, alors l’accessibilité perd tout son sens et il ne pourra y avoir de marché lié à la réutilisation des données </td>
-	</tr>
-	<tr>
-	     <td>4. Les producteurs de données sont responsables et doivent rendre des comptes vis à vis des 3 premiers points</td>
-	</tr>
-	<tr>
-	     <td>5. Les 4 premiers points doivent être respectés et ce, quelque soit le réutilisateur </td>
-	</tr>
-	<tr>
-            <td rowspan= "5">Impacts économiques</td>
-            <td>6. L’égalité et l’équité face aux données/informations publiques stimulera la demande actuelle de données et d’informations </td>
-	</tr>
-	<tr>
-	     <td>7. Cette demande se traduira éventuellement par des résultats économiques directs (plus de chiffre d’affaire pour les réutilisateurs) et indirecteurs (plus d’activités commerciales basées sur la réutilisation des informations publiques)  </td>
-	</tr>
+<tr>
+<td rowspan= "5">Conditions cadres</td>
+<td>1.Si les données ne sont pas disponibles pour les réutilisateurs alors il n’y aura pas de marché  </td>
+</tr>
+<tr>
+<td>2. Si les données disponibles ne sont pas accessibles, alors il ne peut y avoir de réutilisations </td>
+</tr>
+<tr>
+<td>3. Si les conditions de réutilisation des données ne sont pas transparentes, alors l’accessibilité perd tout son sens et il ne pourra y avoir de marché lié à la réutilisation des données </td>
+</tr>
+<tr>
+<td>4. Les producteurs de données sont responsables et doivent rendre des comptes vis à vis des 3 premiers points</td>
+</tr>
+<tr>
+<td>5. Les 4 premiers points doivent être respectés et ce, quelque soit le réutilisateur </td>
+</tr>
+<tr>
+<td rowspan= "5">Impacts économiques</td>
+<td>6. L’égalité et l’équité face aux données/informations publiques stimulera la demande actuelle de données et d’informations </td>
+</tr>
+<tr>
+<td>7. Cette demande se traduira éventuellement par des résultats économiques directs (plus de chiffre d’affaire pour les réutilisateurs) et indirecteurs (plus d’activités commerciales basées sur la réutilisation des informations publiques)  </td>
+</tr>
 
 </table>
 
@@ -197,28 +197,28 @@ Autre élément permettant de renforcer cette hypothèse, Frakes et Isoda ont  �
 Si Ruppert (2013) considèrent que les principales barrières à l’utilisation des données ouvertes par les citoyens sont principalement de l’ordre technique (manque d’équipement) et de la connaissance (en statistiques ou data-science), Ruijer et al. (2017) distingue 4 catégories de barrières qu’il regroupe en 2 dimensions. 
 
 <table>
-	<thead>
-		<tr>
-			<th>Dimensions</th>
-			<th>Catégories</th>				
-		</tr>
-	</thead>
-  <tbody>
-	<tr>
-            <td rowspan= "2">Culturelle</td>
-            <td>Intérêt et connaissance</td>
-	</tr>
-	<tr>
-	     <td>Valeur et qualité d’usage des données</td>
-	</tr>
-	<tr>
-            <td rowspan= "2">Structurelle</td>
-            <td>Accès aux données</td>
-	</tr>
-	<tr>
-	     <td>Technique</td>
-	</tr>
-   </tbody>
+<thead>
+<tr>
+<th>Dimensions</th>
+<th>Catégories</th>				
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan= "2">Culturelle</td>
+<td>Intérêt et connaissance</td>
+</tr>
+<tr>
+<td>Valeur et qualité d’usage des données</td>
+</tr>
+<tr>
+<td rowspan= "2">Structurelle</td>
+<td>Accès aux données</td>
+</tr>
+<tr>
+<td>Technique</td>
+</tr>
+</tbody>
 </table>
 
 
