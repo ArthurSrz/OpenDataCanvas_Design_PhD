@@ -1,3 +1,12 @@
+---
+auteur: Arthur Sarazin
+number_sections: TRUE
+output:
+  pdf_document: 
+    latex_engine: xelatex
+  html_document: default
+---
+
 ## 1.3 Open Data : moteur de l'innovation de services dans les smart city ?
 
 
