@@ -181,19 +181,19 @@ Dans cette thèse, je pose l’hypothèse que les facteurs qui stimulent la réu
 “La caractéristique déterminante d’une bonne réutilisation de la connaissance n’est pas la réutilisation d’un logiciel per se, mais la réutilisation des méthodes de résolution de problèmes inventées par les humaines ”
 
 Autre élément permettant de renforcer cette hypothèse, Frakes et Isoda ont  établi les types de connaissances pouvant être réutilisés (ci-dessous) et parmi eux figurent des bases de données et des artefacts.  
-* Descriptions de problèmes
-* Arterfacts
-* Proposition de projets
-* Rapports de faisabilité
-* Modèles d’entreprises 
-* Dictionnaires de données 
-* Prototypes
-* Tables de décisions
-* Pseudocodes
-* Codes sources
-* Bases de données 
-* Connaissances tacites des développeurs
-* Réseaux de développeurs. 
+- Descriptions de problèmes
+- Arterfacts
+- Proposition de projets
+- Rapports de faisabilité
+- Modèles d’entreprises 
+- Dictionnaires de données 
+- Prototypes
+- Tables de décisions
+- Pseudocodes
+- Codes sources
+- Bases de données 
+- Connaissances tacites des développeurs
+- Réseaux de développeurs. 
 
 **Les barrières face à la réutilisation des données ouvertes**
 
@@ -309,10 +309,10 @@ Les décideurs utilisent les information et/ou connaissances générées grâce 
 
 Gascò-Hernàndez et al. (2018) s’est concentré sur les utilisateurs de l’open data. Il distingue 4 types d’utilisateurs :
 
-* les fonctionnaires qui utilisent les données publiques pour améliorer les services publics autant que les processus de prise de décision. 
-* les innovateurs, parmi lesquels nous retrouvons les développeurs informatiques et les entreprises, utilisent les données dans une optique de créer des nouveaux produits ou services innovants pour les commercialiser. 
-* les chercheurs, data-journalistes et activistes utilisent pour leur part l’Open data dans le but de créer de la connaissance sous différents formats
-* les citoyens utilisent utilisent généralement les données indirectement via certains médiateurs qui traduisent les données. 
+- les fonctionnaires qui utilisent les données publiques pour améliorer les services publics autant que les processus de prise de décision. 
+- les innovateurs, parmi lesquels nous retrouvons les développeurs informatiques et les entreprises, utilisent les données dans une optique de créer des nouveaux produits ou services innovants pour les commercialiser. 
+- les chercheurs, data-journalistes et activistes utilisent pour leur part l’Open data dans le but de créer de la connaissance sous différents formats
+- les citoyens utilisent utilisent généralement les données indirectement via certains médiateurs qui traduisent les données. 
 
 
 #### Les 3 générations de plateformes Open Data
