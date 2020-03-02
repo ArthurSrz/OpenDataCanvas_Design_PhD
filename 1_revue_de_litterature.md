@@ -1,10 +1,7 @@
 ---
 auteur: Arthur Sarazin
 number_sections: TRUE
-output:
-  pdf_document: 
-    latex_engine: xelatex
-
+output: pdf_document
 ---
 
 ## 1.2 Le rôle et la place des plateformes de services dans les smart city
