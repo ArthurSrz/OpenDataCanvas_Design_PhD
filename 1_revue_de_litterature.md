@@ -156,6 +156,163 @@ Ces politiques d’homogénéisation sont souvent mises en place par des acteurs
 Ce type de politique consiste à mettre en relation des données qui ne sont pas du même type en trouver un dénominateur commun. Ces politiques sont mises en place quand les données produites rentrent dans la catégorie des big data, entendu au sens où la quantité générée est extrêmement importante avec des types de données extrêmement divers. En effet, pour pouvoir utiliser ces immenses quantités de données hétérogènes, il faut être capable de les relier entre elles.
 Cette politique a notamment été mise en place par la Centrale de mobilité du Grand Lyon, pour “articuler les données de l’ensemble des modes de transport de l’agglomération lyonnaise pour produire une représentation métropolitaine de la mobilité (Courmont, 2016, p.294)
 
+#### Caractéristiques des innovations de services issues de l'open data
+
+ Résumé | 
+------------ | 
+Dans cette sous-partie, nous recensons toutes les barrières à la réutilisation des données ouvertes identifiée jusque là dans la littérature et qui expliquent les rares innovations issues de l’open data en France aujourd’hui.| 
+
+**De rares innovations du fait de nombreuses barrières empêchant la réutilisation des données ouvertes**
+
+- Distinguer l’utilisation de la réutilisation des données 
+
+Selon Haefliger et al. (2008), on retrouve le concept de réutilisation principalement dans la littérature sur l’innovation technologique. Celle-ci s’est attachée principalement à décrire la réutilisation de codes informatiques dans l’industrie du logiciel open source. Le système d’exploitation Linux ou le moteur de navigation Firefox sont par exemple constitués d’une multitude de lignes de codes ayant déjà été créés pour d’autres projets et ensuite adaptés pour leurs propres besoins par les développeurs de ces logiciels. C’est cette pratique que nous nommons réutilisation dans cette partie.
+
+Cette pratique est un moyen pour les développeurs de logiciels d’économiser des ressources et du temps et donc de réduire le cout de production de nouveaux logiciels. Au lieu de programmer un logiciel dans son ensemble, ils agrègent des composantes déjà existantes, gagnant ainsi un temps précieux. Par exemple, pour les logiciels ayant besoin de lire des images, photos ou vidéos, un développeur pourra réutiliser une des librairies du projet FFmpeg qui contiennent les codes nécessaires pour mettre en place cette fonctionnalité. 
+
+Avec Haefliger et al. (2008), les facteurs amenant des développeurs de logiciels open source à faire le choix de réutiliser des connaissances au lieu d’en créer ex nihilo ont été identifiés. 
+En premier lieu, le choix de réutiliser des connaissances est déterminé par le rapport entre le cout de recherche et d’intégration de codes existants par rapport à celui d’écrire entièrement le code. Lorsqu’il est très difficile de trouver les connaissances adéquat du fait de l’absence d’outils de recherche et de standards robustes, les développeurs auront plutôt tendance à se lancer dans la programmation de nouveaux codes. 
+La documentation et les standards de qualité facilitent aussi grandement la réutilisation de composants logiciels. Avec une description précise, un développeur pourra rapidement décider si le composant proposé convient au projet qu’il développe. Aussi, si la qualité d’un composant logiciel est certifiée par l’utilisation de certains standards, un développeur aura plus tendance à réutiliser ce composant, sachant qu’il y a peu de risques qu’il soit à l’origine de bugs. 
+Les facteurs de motivation jouent un rôle crucial dans les programmes de réutilisation. Qu’ils soient basés sur la rémunération ou sur la réputation, ces facteurs doivent être suffisamment importants pour éclipser l’idée que la réutilisation de codes est moins excitante que celle de créer de nouveaux. 
+Enfin, il faut qu’une base suffisamment étendue de précédents de réutilisation soient disponibles pour que les développeurs considèrent que les composantes mis à disposition constituent une “promesse crédible” (Haefliger et al., 2008). 
+
+Dans cette thèse, je pose l’hypothèse que les facteurs qui stimulent la réutilisation de codes informatiques peuvent s’appliquer à la réutilisation de jeux de données ouverts ainsi qu’à l’ensemble des artefacts qui permettent de faciliter cette même réutilisation dans le cadre des smart cities. Cette hypothèse me semble crédible dans la mesure où la littérature sur la réutilisation des codes informatique a statué qu’au-delà de sa particularité technique, le code informatique était une forme de connaissance particulière. Dès lors, cette littérature a mis en avant que les principes de la réutilisation pouvaient potentiellement s’appliquer à un ensemble plus large de connaissances produites par les êtres humains. Barnes et Bollinger (1991) écrivent à cet égard : 
+
+“La caractéristique déterminante d’une bonne réutilisation de la connaissance n’est pas la réutilisation d’un logiciel per se, mais la réutilisation des méthodes de résolution de problèmes inventées par les humaines ”
+
+Autre élément permettant de renforcer cette hypothèse, Frakes et Isoda ont  établi les types de connaissances pouvant être réutilisés (ci-dessous) et parmi eux figurent des bases de données et des artefacts.  
+* Descriptions de problèmes
+* Arterfacts
+* Proposition de projets
+* Rapports de faisabilité
+* Modèles d’entreprises 
+* Dictionnaires de données 
+* Prototypes
+* Tables de décisions
+* Pseudocodes
+* Codes sources
+* Bases de données 
+* Connaissances tacites des développeurs
+* Réseaux de développeurs. 
+
+**Les barrières face à la réutilisation des données ouvertes**
+
+Si Ruppert (2013) considèrent que les principales barrières à l’utilisation des données ouvertes par les citoyens sont principalement de l’ordre technique (manque d’équipement) et de la connaissance (en statistiques ou data-science), Ruijer et al. (2017) distingue 4 catégories de barrières qu’il regroupe en 2 dimensions. 
+
+<table>
+	<thead>
+		<tr>
+			<th>Dimensions</th>
+			<th>Catégories</th>				
+		</tr>
+	</thead>
+  <tbody>
+	<tr>
+            <td rowspan= "2">Culturelle</td>
+            <td>Intérêt et connaissance</td>
+	</tr>
+	<tr>
+	     <td>Valeur et qualité d’usage des données</td>
+	</tr>
+	<tr>
+            <td rowspan= "2">Structurelle</td>
+            <td>Accès aux données</td>
+	</tr>
+	<tr>
+	     <td>Technique</td>
+	</tr>
+   </tbody>
+</table>
+
+
+Les barrières culturelles sont inhérentes à la nature de la donnée qui nécessite d’avoir acquis certaines compétences avant de pouvoir comprendre son intérêt et sa valeur. Contrairement au mythe des débuts de l’Open-data qui affirmait que tout un chacun pourrait directement utiliser les données, il faut maîtriser certaines techniques statistiques et d’autres connaissances pour pouvoir analyser les données, leur donner du sens et comprendre les implications que son utilisation peut avoir (Janssen, Charalabidis & Zuiderwijk, 2012). 
+
+Les barrières structurelles relèvent principalement des imperfections des démarches d’ouverture des données. L’accès aux données est souvent rendu difficile par le manque de méta-données qui qualifient les jeux ouverts et permettent de les référencer au mieux sur les moteurs de recherche. Ainsi, toute personne intéressée par un jeu de donnée, passera un temps important à parcourir de nombreuses plateformes indépendante à la recherche de ce dernier, au risque de se décourager. Ce travail de production des métadonnées revient dans la plupart des cas au diffuseur de la donnée, et dans le cas de l’Open data, aux collectivités publiques. Or, ce travail est rarement effectué du fait du manque de moyen de ces dernières (Braunschweig et al., 2012)
+
+Grâce à des entretiens menés auprès de développeurs, premiers utilisateurs de l’Open data, Le Corf (2016) montre les implications que peuvent avoir des barrières culturelles et structurelles trop difficiles à surmonter sur la dynamisme des projets de réutilisations
+Selon son analyse , les barrières culturelles sont à l’origine de l’absence de modèle économique permettant de commercialiser les applications développées mais aussi de modèle de rémunération des développeurs qui permettrait de garantir la pérennité des services créés. Les barrières structurelles sont quant elles la cause du cantonnement des pratiques d’innovation auprès “d’innovateurs disposant de compétences techniques pointues”, ce qui pose un véritable problème dans le développement de services à valeur ajoutée pour l’utilisateur. En effet, c’est aux carrefours de différentes compétences que de nouveaux services fiables d’un point de vue technique et ergonomiques pourront voir le jour. 
+
+Conclusion et transition | 
+------------ | 
+Après avoir fait état de la difficulté de réutiliser les données ouvertes pour créer de nouveaux services, il s’agit dans cette sous-partie de montrer qui sont les acteurs qui arrivent, malgré ces barrières, à innover. Je solliciterai 2 cadres théoriques qui viendront soutenir cet argument selon lequel la dynamique d’innovation de service issue de l’open est restreinte et réservée à un cercle de spécialiste.| 
+
+**Une dynamique d’innovation de service restreinte et réservée à un cercle de spécialistes : l’absence de communautés de réutilisateurs de l’open data**
+
+- L’open data à l’origine de publics et non de communautés
+
+Pour Goëta et Denis (2013), l’ouverture des données brutes des administrations et les dispositifs qui incitent à leur utilisation apparaissent “comme des moteurs de la reconfiguration non seulement de l’Etat (...) mais aussi des citoyens, instaurés en public du gouvernement et de ses données”. Selon l’ancien Premier Ministre britannique David Cameron, en créant un nouveau lien avec les citoyens, l’open data reconfigure le rôle de l’Etat qui perdra le monopole des données et de leurs interprétations. Les citoyens pourront désormais intervenir dans le processus. 
+
+Or, peu de personnes sont véritablement équipées pour dialoguer avec les gouvernements. Seuls les individus possédant les connaissances et équipements nécessaires pour interpréter des millions de tétrabytes de données le sont (Ruppert, 2013). Ces professionnels de la data sont le premier public qui va pouvoir interagir avec le gouvernement et qui va devenir le coeur des écosystèmes Open data. A l’inverse, les citoyens seront présents mais aux marges de ces écosystèmes étant donné leur faible niveau d’accoutumance à la culture de la donnée. Le Corf (2016) rejoint cette analyse en affirmant : “les développeurs web sont des publics cibles de ces actions d’intelligence territoriales qui s’accompagnent d’un discours communicationnel en faveur de la montée du paradigme de co-production comme en témoigne la multitude de formules visant à qualifier de nouveaux projets de gestion publique locale : Open data, smart cities, innovation ouverte et sociale, etc.”
+Dès lors, ces écosystèmes sont d’abord constitués des services publics des Smart City qui fournissent les données; ensuite par les développeurs et les professionnels de l’informatique qui traitent la donnée et dont l’avis est pris en compte pour modifier la structure des données libérées ; et finalement, celui du citoyen qui utilisent les données, ses réutilisations et transformations. 
+
+Cette analyse contraste avec une des grandes promesses de l’Open data qui devait faire émerger de nouvelles formes de gouvernements, plus transparents, plus responsables et plus à l’écoute de leurs administrés, gouvernements que l’on rassemble sous l’anglicisme d’Open government (Commission européenne, 2010). Hormi quelques rares exemples, les collectivités publiques n’ont pas mis en place des mécanismes de feedback permettant un dialogue entre les gouvernants et les gouvernés pouvant aboutir à l’émergence d’Open governments. En effet, de tels mécanismes impliquent une transformation profonde des institutions publiques au niveau organisationnel (Akrab, 2016) et culturel que les institutions n’ont pas encore menées à terme. La théorie des systèmes est souvent utilisée pour expliquer cette transformation : l’ouverture des données et la mise en place d’espaces de dialogues revient à faire passer les collectivités d’un mode de fonctionnement correspondant à celui d’un système fermé vers un autre correspondant à un système ouvert. Un système fermé est facile à diriger car il n’est pas influencé par des facteurs extérieurs, instables. On peut d’ailleurs utiliser des processus de contrôle rigides de ce fait. A l’inverse, un système ouvert ne peut être contrôlé de façon aussi précise du fait de l’intrusion de nouveaux éléments, dont l’intégration a des effets difficiles à prévoir. Dès lors, le passage d’un système ouvert à un système fermé nécessite de passer d’une logique de contrôle mécaniciste à une perspective évolutiste dominé par l’auto-organisation et son caractère imprévisible. Un passage difficile quand l’on considère l’aversion au risque historique des institutions publiques (Janssen, Charalabidis & Zuiderwijk, 2012)
+
+- L’absence de communautés autour de l’open data expliquée par le cadre théorique du middleground (Cohendet et al., 2014) : les ré-utilisateurs comme acteurs marginaux dépourvus de moyens de transfert de leurs idées radicales en innovation 
+
+Le cadre théorique du middleground s’inscrit dans les lignées des travaux en sociologie s’intéressant à la promotion des idées radicalement nouvelles (Becker, 1963 ; Coser, 1965 ; Merton, 1968). Il poursuit ce champs de recherche en introduisant le concept de communauté épistémique qui permet de faire le lien entre les acteurs marginaux et réalités économiques de l’innovation. Le concept de communauté épistémique reprend et adapte la définition d’une communauté selon Adler (1992) : “un réseau de professionnels avec une expertise reconnus, des compétences dans un domaine particulier et un positionnement politique”. Une communauté épistémique se définit alors comme : “un petite groupe d’agents créateurs de connaissances engagées sur un ensemble restreint de questions et qui acceptent et reconnaissent une autorité établie collectivement comme un des facteurs de succès des activités collectives” (Cowan et al., 2000, p.234)
+
+Ces communautés épistémiques réalise un travail cognitif particulier que l’on peut comprendre comme une séquence de 4 étapes dont les 3 premières constituent des conditions nécessaires sans lesquelles aucune idée ne peut être transformé en innovation radicale : 
+
+Créer un manifeste dans lequel sont inscrites les règles à respecter au cour du travail cognitif de la communauté
+Construire un “codebook” qui précise les codes, normes et pratiques à respecter par les membres de la communauté
+Attirer et convaincre d’autres acteurs de l’utilité et du potentiel du projet porté par cette communauté épistémique. 
+Renforcement de la construction cognitive de la communauté par une exposition aux critiques, des interactions, des frictions et des désaccords avec d’autres communautés. 
+
+Selon Cohendet et al. (2014), ces rencontres entre différentes communautés se font majoritairement dans des contextes locaux à travers des middleground qui, même en cas de dispersion géographique de la communauté, reste un point de passage obligé des processus cognitifs développés par la communauté. 
+
+Ce point de passage se subdivise en 3 différentes couches que sont l’upperground, le middleground et l’underground (Figure ci-dessous) 
+
+![Middleground](http://opendatatales.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-02-at-11.59.29.png)
+##### Figure 9 : les 3 couches d’un territoire selon l’approche du middleground. Source : Cohendet et al. (2014)
+
+Tout d’abord, dans la couche underground, les idées radicales s’échangent à un niveau micro et migrent vers une échelle macro à travers l’accumulation, la combinaison, l’enrichissement et le renouvellement de bits d’informations dispersés sur le territoire. Ces dynamiques sont ensuite encouragées par une couche intermédiaire, le middleground qui facilite les relations entre l’underground et l’upperground. L’idée centrale de l’ouvrage de Cohendet et al. (2014) est que ce middleground accélère la dynamique des mouvements radicalement nouveaux qui ont besoin d’un processus cognitif de constructions d’idées cadré à mettre en place. Chacune des étapes de ce processus nécessite un milieu local fertile offrant des opportunités pour l’hybridation, la traduction, l’exposition aux critiques ou l’ouverture au monde extérieur. 
+
+Le cadre théorique du middleground est né pour venir combler un manque dans la connaissances des processus de création de nouvelles connaissances et d’innovation. La littérature économique et géographique sur le sujet s’était jusque là accordé sur le fait que la concentration de ressources et compétences dans un périmètre local favorise la formation d’externalités de connaissances et stimule l’apprentissage et l’innovation. Or, Cohendet et al. (2014) ont mis en évidence que ce prisme d’analyse ne peut expliquer les mécanismes à l’origine des innovations radicales dans les milieux artistiques (l’avènement du cubisme par exemple), scientifiques (l’invention des machines à commande numérique par Von Neumann en 1942 par exemple) et technologiques (nous déterminerons dans une autre partie si l’open data peut se ranger dans la catégorie des innovations technologiques radicales). 
+	
+La première limite pointée par Cohendet et al. (2014) concerne le périmètre restreint des acteurs pris en compte dans l’étude des formations d’externalités de connaissances. Ce périmètre exclus notamment “les agents non-économiques aux idées déviantes”, ce qui constitue pour les auteurs un paradoxe puisqu’il a été démontré que ces acteurs ont été à l’origine de plusieurs innovations radicales. Nous rangeons dans cette catégorie ce que Townsend (2013) nomme les communautés “civic hackers” présentes dans les smart cities. Ce parallèle se justifie par le fait que ces communautés se sont rassemblées autour des idées utopiques et radices d’une société plus ouverte, transparente et horizontale, avant de promouvoir, hors de tout intérêt économique les technologies fondatrices des smart cities comme les applications mobile ou les capteurs open-source. 
+	
+L’exclusion des ces acteurs de l’étude classique des mécanismes de formation d’externalités de connaissance est ce qui explique que peu d’études se sont intéressées aux interactions nécessaires entre ces agents et les milieux établis pour transformer ces idées radicales en innovation : “little is said on how these agents (could) possibly find the complementary social, cognitive, organisational and institutional support needed for them (non-economic actors) to bring their most deviant ideas to the market” (p.933). On retrouve chez Kuk et Davies (2011) le constat similaire derrière leur étude des mécanismes de complémentarité permettant de transformer l’open data en services qui sont utilisés par les hackers. Ils affirment que peu d’études se sont intéressées aux activités menées par ces agents dans le cadre de leur engagement pour la libre utilisation des données produites par les acteurs publiques. Un engagement plus motivé par les défis intellectuels qu’il sous-tend et le plaisir liés à la résolution de problèmes difficiles qu’à la création d’un logiciel ou d’un service avec l’espoir de gains économiques (Laklani et Wolf, 2003). 
+	
+Ce peu d’études sur la transformation des idées radicales de l’open data en innovation est d’autant plus criant si l’on dresse une analogie avec les communautés du logiciel open-source : si les libristes et les mécanismes de ré-utilisation de codes permettant de créer les logiciels libres sont aujourd’hui compris et fortement documenté, peu de chercheurs se sont penchés sur la transformation en innovation des idées radicales derrières l’open data. Cette absence d’études peut facilement s’expliquer par la relative nouveauté de l’open data en tant que mouvement politique et idéologie (Chignard, 2013). Rappellons que les premières revandications pour une ouverture des données ne remontent qu’à 2007 avec la tenue de la conférence de Sebastopol à l’origine des principes qui définissent ce qu’est l’ouverture des données publiques. 
+
+Cohendet et al. (2014) laissent la porte ouverte à la critique sur la question de la nécessaire centralisation géographique des communautés épistémiques en prenant acte du potentiel grandissant des plateformes virtuelles. Il reconnaît que les contextes virtuels favorisent certainement le travail cognitif des membres d’une seule communauté mais doute qu’ils puissent stimuler les interactions entre plusieurs communautés, interactions nécessaires par ailleurs à la transformation en innovation des outputs de chacune d’entre elles. 
+Cette thèse s’engouffre précisément dans cette ouverture puisque nous avançons que les communautés open data se développent dans de multiples contextes géographiques de fait de l’ubiquité intrinsèque des données et des interactions nécessaires à la transformation des données en innovations qui dépassent et transcendent les frontières géographiques. 
+
+
+- L’absence de communautés autour de l’open data expliquée par la théorie des biens communs : un commun libertarien qui rend impossible l’existence d’une communauté
+
+Une autre façon d’expliquer l’absence d’une communauté de réutilisateurs sollicite la distinction établie par Levine (2007) entre les communs libertariens et les communs associatifs. Les communs libertariens sont des communs auxquels tout le monde a accès et que tout le monde peut utiliser et auxquels tout le monde peut contribuer. Les océans sont par exemple des biens communs libertariens. Les communs associatifs sont eux contrôlés par un groupe qui a le droit et le pouvoir de limiter son accès, son utilisation et sélectionner les contributions. Levine prend les églises et autres bâtiments détenus par certaines congrégations religieuses. En parallèle de l’accueil de concerts et de touristes à titre gracieux, la congrégation donné accès à certains espaces et événements aux personnes qui acceptent de payer une redevance qui est réinjectée pour financer les travaux sur les bâtiments en cas de dégradation. 
+
+Si l’on se rappelle la loi pour une République numérique qui fixe le principe d’ouverture par défaut des données des administrations et ce, “dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé’ (article L.300-4), on conviendra qu’il n’existe alors aucun droit de restriction à l’accès aux données ouvertes et donc qu’elles correspondent à des communs libertariens. Or, Levine avance que les communs libertariens, bien qu’ils possèdent l’attrait de l’accès inconditionnel, souffrent du problème du passager clandestin et de l’impossibilité d’être protégé de la dégradation ou des phénomènes d’enclosures. Prenons l’exemple des informations et connaissances qui circulent sur Internet. Tandis que tout individu peut aujourd’hui produire ou utiliser des informations sur Internet, ce libre accès laisse la porte ouverte aux fake news, à des formes d’influences et de récupérations politiques. En face, les défenseurs d’Internet et de la libre circulation des informations et connaissances se trouvent dans une situation d’impuissance puisqu’un acteur “n’a intérêt à payer pour défendre un bien dont tout le monde par ailleurs béneficie” (Levine, 2007, p252). 
+
+Cette situation propre aux communs libertariens est une façon d’expliquer pourquoi il n’existe pas de communauté de réutilisateurs au sens entendu par la théorie des biens communs. L’accès des données étant ouvert à tous, aucun réutilisateur ni aucune organisation n’a intérêt à se positionner comme défenseur de celles-ci et à supporter les coûts liés à la gestion d’une communauté de réutilisateurs. 
+
+Conclusion et transition | 
+------------ | 
+Après recensé les cadres théoriques permettant de justifier l’argument selon lequel l’open data ne s’adresse pas au plus grand nombre mais plutôt à un catégorie d’acteurs bien dotées en ressources et compétences, je m’attacherai dans cette partie à démontrer qu’en plus d’être restreinte à petit groupe d’acteurs, l’innovation de services issues de l’open data est difficilement observable par les méthodes classiques de recherche. Le travail de transformation de l’open data en innovation est un phénomène invisible, se déroulant sous les radars de la plupart des acteurs de la smart city.| 
+
+**Une dynamique d’innovation de service invisible et désordonnée : l’absence de schéma et de règles de gouvernance des données ouvertes**
+
+- Ouverture des données et anonymat : les raisons du manque de connaissance des parties prenantes de l’open data
+
+Les utilisateurs des jeux de données ouvertes sont aujourd’hui peu connus des administrateurs de plateformes Open data du fait qu’un traceur n’est installé sur les jeux de données lorsqu’ils sont téléchargés ou bien aspirés via les APIs disponibles. Or, ce manque de connaissance sur l’identité des utilisateurs s’accompagne d’un manque de connaissances sur les attentes de ces utilisateurs vis à vis des jeux de données, ce qui devient problématique lorsque les collectivités territoriales souhaitent stimuler l’usage des jeux de données dans le cadre de démarches d’innovations. En effet,  l’innovation étant la résultante de la rencontre d’une technologie disponible et d’un besoin recensé (Schon, 1967), il est difficile de stimuler l’innovation quand on ne sait pas qui sont les personnes ayant besoin des données et la nature de ce besoin. 
+
+Ironiquement, cette zone d’ombre devenue barrière était au coeur de l’esprit originel de l’Open data. L’hypothèse de base de la démarche était qu’une fois les données libérées, référencées et disponibles dans plusieurs formats et sous des licenses permettant leur réutilisation, les innovations se créeraient d’elles-mêmes. Face au constat de la faible utilisation des données ouvertes, nous pouvons dire que cette hypothèse relève, dans le meilleur des cas, d’un excès d’optimisme ou, dans le pire, de la contradiction. Ruijer et al. (2017) s’accordent sur la deuxième option lorsqu’ils écrivent : “en réalité cette hypothèse perturbe l’usage des données car elle implique un écart entre les besoins contextualisés d’un utilisateur et l’offre de données”. Autrement dit, les démarches Open data telles qu’elles ont été conçues initialement éloignent plus qu’elles ne rapprochent l’échéance à laquelle le potentiel de transformation économique de l’Open data se réalisera. 
+
+- Les tentatives d’identification des parties prenantes de l’open data dans la littérature
+
+Dans sa thèse, Zuiderwijk (2015) distingue 3 types de membres :  les fournisseurs de données ouvertes, les utilisateurs de données ouvertes et les décideurs. Les fournisseurs de données ouvertes comprennent les agences gouvernementales qui produisent ou collectent de grandes quantités de données afin de remplir leurs tâches quotidiennes et les organisations financées par des fonds publics qui produisent et collectent des données au nom d'agences gouvernementales. Nous rajoutons à cette catégorie l’ensemble des acteurs civils et privés qui possèdent des données relevant de l’intérêt général et qui les rendent accessibles librement et gratuitement. 
+	Une fois les données ouvertes libérées, les utilisateurs de données ouvertes entrent en jeu pour réutiliser les données : ces utilisateurs proviennent de différents contextes et utilisent des données à de nombreuses fins. Néanmoins, on peut noter qu’ils ont un objectif commun : transformer la donnée en information actionnable puis, pour certain, en connaissances qu’ils transmettent ensuite aux décideurs. 
+Les décideurs utilisent les information et/ou connaissances générées grâce aux données ouvertes comme intrants pour formuler leurs décisions. Dans le cadre de cette thèse, nous restreindrons cette catégorie aux fournisseurs de services publics dans les Smart Cities.
+
+
+
+Gascò-Hernàndez et al. (2018) s’est concentré sur les utilisateurs de l’open data. Il distingue 4 types d’utilisateurs :
+
+* les fonctionnaires qui utilisent les données publiques pour améliorer les services publics autant que les processus de prise de décision. 
+* les innovateurs, parmi lesquels nous retrouvons les développeurs informatiques et les entreprises, utilisent les données dans une optique de créer des nouveaux produits ou services innovants pour les commercialiser. 
+* les chercheurs, data-journalistes et activistes utilisent pour leur part l’Open data dans le but de créer de la connaissance sous différents formats
+* les citoyens utilisent utilisent généralement les données indirectement via certains médiateurs qui traduisent les données. 
 
 
 #### Les 3 générations de plateformes Open Data
