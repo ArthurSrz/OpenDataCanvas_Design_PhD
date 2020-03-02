@@ -89,6 +89,7 @@ Enfin, les bénéficiaires font l’expérience de la valeur créée par les ser
 ------------ | 
 Dans cette partie, il sera question tout d’abord de pointer du doigt le postulat implicite à l’origine du du manque d’implication des villes dans la réutilisation de leurs données ouvertes avant de reprendre les catégories de politiques de réutilisation instaurées par Courmont (2016). Nous visons ici à développer plus en profondeur l’idée évoquée dans la partie précédente selon laquelle les acteurs publics rencontrent de nombreuses difficultés pour faciliter la réutilisation des données en open data, quand ils ne laissent pas complètement cet aspect hors de leur agenda | 
 
+**Manque d'implication des villes dans la réutilisation des données ouvertes**
 A l’origine du mouvement de l’open data on retrouve l’idée selon laquelle une fois les données mises en open data, elles seraient réutilisées et transformées en innovation, avec à la clé de la création de valeur économique (Chignard, 2013). On trouve ce postulat pour la première fois dans un rapport de la commission européenne de 2006, intitulé Measuring European Public Sector Information Resources (Dekkers et al., 2006) et qui estime que l’open data et les informations publiques pourraient créer un marché estimé à 40 milliards d’euros par an. 
 
 Nous décrirons ici la logique construite par la commission européenne pour venir supporter cette estimation (figure ci-dessous).
@@ -130,6 +131,32 @@ Puis, elle articule les relations entre ces rôles en suivant une logique consti
 	</tr>
 
 </table>
+
+En substance, la commission européenne estime que si les producteurs de données ouvertes font en sorte que ces données soient disponibles (point 1), accessibles (point 2), transparentes (point 3), que les fournisseurs de données s’engagent à rendre des comptes (point 4) et à fournir un accès égal et équitable à tous (point 5 et point 6), alors les données seront d’avantage réutilisées. Autrement dit, la commission européenne suggère que les acteurs publics verront leurs données réutilisées naturellement si elles respectent ces 5 critères. 
+
+Ce raisonnement, que je rangerai ici parmi les fondations intellectuelles de l’open data, peut participer à expliquer l’avènement du mythe d’un développement économique causé, presque naturellement, par l’ouverture des données publiques. Aussi permet-il de comprendre la posture historique des politiques open data, qui allouent peu de moyens aux pratiques qui pourraient accroitre durablement la réutilisation des données ouvertes. Enfin, l’intérêt tardif de la communauté scientifique et le faible nombre d’études s’intéressant à la réutilisation peut être perçu comme une autre conséquence de ce raisonnement fondateur. Et Courmont (2016, p.242) de résumer : “l’accent est d’avantage mis sur l’accès aux données que sur les usages qui en sont faits” 
+
+**L'émergence de politiques de réutilisation**
+Pour pallier à ce manque de matériau scientifique, Courmont (2016) a réalisé une quinzaine d’études de cas de réutilisations de données mises à disposition par le Grand Lyon. A partir d’elles, il a pu établir 3 catégories de politiques de réutilisation. Rappellons ici qu’il conçoit une politique de données en se basant sur les travaux de Bruno Latour et qu’il définit comme : “l’ensemble des opérations de compositions de collectifs autour des données”. Cette conception a l’avantage de ne pas restreindre les politiques de données aux politiques telles que conçues par les sciences politiques : “Ces politiques de données peuvent s’inscrire dans ce qui relève d’un champ politique, mais elles ne s’y restreignent pas. Il existe autant de politiques qu’il y a d’étapes dans les transformations de données” (Courmont, 2016, p.31)
+
+Suivant cette conception, il distingue 3 catégories de politique de données en suivant 3 étapes de transformation de la donnée : la consolidation, l’homogénéisation et l’articulation. 
+
+1. Les politiques de consolidation
+
+Ces politiques sont mises en place pour contrer le risque de deliquescence des données une fois qu’elles ont été extraites de leur univers institutionnel d’origine. Comme une plante qui une fois déracinée dépérit, la donnée perd de son potentiel de réutilisation une fois extraite de son contexte de production. 
+Les politiques de consolidation visent à renforcer “la capacité de la donnée à resister à des circonstances et pratiques inattendues” (Courmont, 2016, p.247), et ce en ajoutant des éléments qui vont faciliter le passage de la donnée d’un contexte à un autre. Parmi les mesures liée à ce type de politique, nous pouvons prendre l’exemple du renseignement des métadonnées. Celles-ci donnent des indications textuelles sur ce que contient le jeu de données, la période et l’objet couvert. Avec ces informations, un réutilisateur peut facilement estimer la valeur de l’usage de ce jeu de données dans son contexte et univers social. 
+
+2. Les politiques d'homogénéisation
+
+Ces politiques sont mises en place lorsque les acteurs souhaitent utiliser les données dans une dimension plus large que celle pour laquelle elles ont été produites. Dans le cadre des villes, il peut s’agir de passer de l’échelle communale à l’échelle métropolitaine. L’avantage de cette homogénéisation est de pouvoir trouver des conventions communes s’appliquant à des données hétérogènes permettant de les intégrer pour pouvoir ensuite développer des services à un échelon spatial ou institutionnel supérieur. 
+Ces politiques d’homogénéisation sont souvent mises en place par des acteurs hors de la sphère publique. Nous pouvons citer OpenStreetMap qui récupère et homogénéise les données géographiques ouvertes pour proposer un Wikipédia de la géographie à l’échelle mondiale.
+
+3. Les politiques d'articulation
+
+Ce type de politique consiste à mettre en relation des données qui ne sont pas du même type en trouver un dénominateur commun. Ces politiques sont mises en place quand les données produites rentrent dans la catégorie des big data, entendu au sens où la quantité générée est extrêmement importante avec des types de données extrêmement divers. En effet, pour pouvoir utiliser ces immenses quantités de données hétérogènes, il faut être capable de les relier entre elles.
+Cette politique a notamment été mise en place par la Centrale de mobilité du Grand Lyon, pour “articuler les données de l’ensemble des modes de transport de l’agglomération lyonnaise pour produire une représentation métropolitaine de la mobilité (Courmont, 2016, p.294)
+
+
 
 #### Les 3 générations de plateformes Open Data
 
