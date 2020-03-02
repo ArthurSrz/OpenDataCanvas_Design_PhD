@@ -302,7 +302,8 @@ Ironiquement, cette zone d’ombre devenue barrière était au coeur de l’espr
 - Les tentatives d’identification des parties prenantes de l’open data dans la littérature
 
 Dans sa thèse, Zuiderwijk (2015) distingue 3 types de membres :  les fournisseurs de données ouvertes, les utilisateurs de données ouvertes et les décideurs. Les fournisseurs de données ouvertes comprennent les agences gouvernementales qui produisent ou collectent de grandes quantités de données afin de remplir leurs tâches quotidiennes et les organisations financées par des fonds publics qui produisent et collectent des données au nom d'agences gouvernementales. Nous rajoutons à cette catégorie l’ensemble des acteurs civils et privés qui possèdent des données relevant de l’intérêt général et qui les rendent accessibles librement et gratuitement. 
-	Une fois les données ouvertes libérées, les utilisateurs de données ouvertes entrent en jeu pour réutiliser les données : ces utilisateurs proviennent de différents contextes et utilisent des données à de nombreuses fins. Néanmoins, on peut noter qu’ils ont un objectif commun : transformer la donnée en information actionnable puis, pour certain, en connaissances qu’ils transmettent ensuite aux décideurs. 
+
+Une fois les données ouvertes libérées, les utilisateurs de données ouvertes entrent en jeu pour réutiliser les données : ces utilisateurs proviennent de différents contextes et utilisent des données à de nombreuses fins. Néanmoins, on peut noter qu’ils ont un objectif commun : transformer la donnée en information actionnable puis, pour certain, en connaissances qu’ils transmettent ensuite aux décideurs. 
 Les décideurs utilisent les information et/ou connaissances générées grâce aux données ouvertes comme intrants pour formuler leurs décisions. Dans le cadre de cette thèse, nous restreindrons cette catégorie aux fournisseurs de services publics dans les Smart Cities.
 
 
