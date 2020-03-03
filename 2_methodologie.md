@@ -10,6 +10,16 @@ Or, avec Simon (1969), cette thèse part du principe que tous les objets qui nou
 
 Par conséquent, la conduite d’une démarche scientifique et plus précisément la réalisation d’une thèse en science de gestion signifie pour moi être “capable de comprendre l’enchevêtrement des objets façonnés par l’homme dans l’optique de concevoir des artefact qui pourront s’inscrire dans cet enchevêtrement et le faire évoluer” (Avenier, 2010). Cette thèse vise donc plus à répondre à la question “comment ça marche ?” qu’à la question “est-ce vrai ou faux ?”
 
+Par ce choix, cette thèse se rapproche des postures épistémologiques fréquemment utilisé par les chercheurs en design science, selon lesquelles il existe de multiples états du monde alternatifs (alternative world states), contextuellement situés, qui sont rendus possibles par des artefacts socio-techniques (Kuelcher et Vaishnavi, 2015). Par exemple, dans cette thèse, la ville numérique est un état possible, la smart city en est une autre. 
+Par la construction d’artefacts, il s’agira non seulement de comprendre l’innovation de services issue de l’open data mais aussi de créer de nombreuses connaissances sur le prochain état des smart cities qui est sur le point d’advenir et qui, en même temps, élargira encore les limites des capacités humaines et organisationnelles (Hevner et al., 2008). Ce nouvel état pourrait être celui imaginé par Douay (2017, L’urbanisme à l’heure du numérique) : une ville dont l’urbanisme serait révolutionné par la circulation des données ouvertes et par les nouvelles possiiblités offertes par les technologies participatives. Cette “ville des données ouvertes” serait sculptée par l’implication d’un nombre inédit de citoyens dans des procédures décisionnelles relatives à l’urbanisme. Douay (2017) prend pour exemple la ville de Paris : 
+
+> la numérisation à Paris a débuté avec la carte participative « Imaginons Paris » lors de la révision du Plan Local d’Urbanisme (PLU), avec 22 838 visites et 2 268 contributions. Ensuite, le budget participatif a rassemblé 5115 idées en 2015 et 3358 en 2016. Pour cette dernière année, 92809 votes ont permis de départager les 219 projets lauréats, qui bénéficient de 94 millions d’euros de budget” - Douay (2017, p. 149) 
+
+	
+Je précise que si la ville de Lyon et Grenoble seront les principales villes à bénéficier des résultats, l'objectif de ce doctorat dépasse le cadre de ces trois terrains. En effet, ma thèse ne vise pas uniquement la création d'artefacts pour des villes données, ce qui l’affilierait à la sphère de l’industrie du design, mais plutôt celui la recherche en science du design, qui combine la production d’un artefact avec la production de nouvelles connaissances. (Vaishnavi et Kuelcher, 2004)
+De cette manière, le paradigme que nous adopterons, issu de la recherche en science du design, ne se limite pas à résoudre un problème de conception propre à quelques smart cities et à leur environnement. Il contribue plutôt à une classe générale de problèmes et à une grande variété de contextes organisationnels et sociaux.
+
+
 ### Posture épistémologique
 
 **La choix du paradigme épistémologique de design research établi par Romme**
