@@ -1,6 +1,6 @@
  ### 2.1.1 De la posture scientifique et épistémologique à la posture méthodologique
 
-#### Posture ontologique et scientifique : le choix du paradigme des sciences de l'artificiel
+### Posture ontologique et scientifique : le choix du paradigme des sciences de l'artificiel
 
 Je commencerai par préciser le paradigme scientifique que je solliciterai dans le cadre de cette thèse et par là, je donnerai ma vision de ce que “faire une thèse en sciences de gestion” veut dire. 
 
@@ -10,7 +10,7 @@ Or, avec Simon (1969), cette thèse part du principe que tous les objets qui nou
 
 Par conséquent, la conduite d’une démarche scientifique et plus précisément la réalisation d’une thèse en science de gestion signifie pour moi être “capable de comprendre l’enchevêtrement des objets façonnés par l’homme dans l’optique de concevoir des artefact qui pourront s’inscrire dans cet enchevêtrement et le faire évoluer” (Avenier, 2010). Cette thèse vise donc plus à répondre à la question “comment ça marche ?” qu’à la question “est-ce vrai ou faux ?”
 
-#### Posture épistémologique
+### Posture épistémologique
 
 **La choix du paradigme épistémologique de design research établi par Romme**
 Couplé au paradigme scientifiques des sciences de l’artificiel, cette thèse adopte un paradigme épistémologique dit design établi par Romme (2003) qui considère que l’objectif de la connaissance est de produire ou de servir la “production de systèmes qui n’existent pas encore et par là, induire des changements dans les systèmes existants pour obtenir ceux que l’on souhaite”
@@ -31,7 +31,7 @@ Ces modifications se font à travers des interventions en Systèmes d'Informatio
 Figure. Intervention en Systèmes d'Information
 
 
-#### Posture méthodologique
+### Posture méthodologique
 
 **Une méthodologie pour contribuer aux efforts de construction d’une théorie sur l’usage et la transformation de l’open data**
 
