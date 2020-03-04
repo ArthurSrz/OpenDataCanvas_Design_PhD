@@ -69,6 +69,12 @@ PhD Working Book (4) - p.84 - Constitution d'un échantillon de convenance
 
 - Notes de terrain : 
   * Point Département de Loire-Atlantique + LiberTIC 
-  * Echange de mails avec Anaig Denis autour d'un projet de valorisation de données
+  * Echange de mails avec Anaig Denis autour d'un projet de valorisation de données + nouvelle version du plateforme mutualisée
+  
+**Groupe de travail autour de l'open data - Grenoble**
+
+- Notes de terrain : 
+ * CR du groupe technique entre décembre 2017 et juillet 2018
+ * Participation aux CR sur 6 sessions.
   
   
