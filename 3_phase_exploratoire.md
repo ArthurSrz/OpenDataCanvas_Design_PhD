@@ -56,3 +56,8 @@ Pour effectuer cette nouvelle subdivision, nous reprenons les travaux de Kuk et 
 ### Invention du comportement dynamique du système et de la manière dont ce comportement est produit
 
 ### Invention de l’évolution historique du système 
+
+
+Conclusion et transition | 
+------------ | 
+Grille d'observation issue de l'invention (ex : Perrin, 2008, p.156)| 
