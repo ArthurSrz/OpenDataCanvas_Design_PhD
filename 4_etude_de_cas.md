@@ -1,5 +1,7 @@
 ## 4.1.4 Résultats et discussion : un besoin d'avoir des connaissances partagées entre opérateurs pour lever plus facilement les barrières 
 
+- PhD Working Book (6) - p.120-143 - Première identification des besoins fonctionnels pour lever les barrières socio-techniques
+
 **Grenoble - Identification des besoins fonctionnels d’un artefact permettant de faciliter le travail de transformation de la donnée**
 
 Nous pouvons désormais lier l’ensemble des barrières identifiées (représentées en annexe 2) dans l’écosystème open data grenoblois à des besoins fonctionnels d’un artefact permettant de faciliter le travail de l’open data (cf tableau ci-dessous)
