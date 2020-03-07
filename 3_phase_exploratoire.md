@@ -10,13 +10,13 @@
 
 Pour inventer un modèle préliminaire de la circulation des données dans un contexte ecosystèmique, je m'inspire ici du pattern d'analyse de système complexe (Vaishnavi et Kuelcher, 2015, p. 107). Il est utile au chercheur en design science quand il cherche à décomposer le fonctionnement d’un système socio-technique complexe. Il se décompose en 4 phases : 
 
-  1. Invention de la structure statique du système en décomposant le système en sous-systèmes
-  2. Invention de la structure statique de chaque sous-système en les décomposant en subdivisions plus petites
-  3. Invention du comportement dynamique du système et de la manière dont ce comportement est produit
-  4. Invention de l’évolution historique du système 
+  1. Invention de la structure statique du système en décomposant l'écosystème en diférents systèmes interdépendants
+  2. Invention de la structure statique de chaque système en les décomposant en subdivisions plus petites
+  3. Invention du comportement dynamique de chaque système et de la manière dont ce comportement est produit
+  4. Invention de l’évolution historique des systèmes et de leurs interactions.
 
 
-###  Invention de la structure statique d’un écosystème open data en décomposant le système en sous-systèmes
+###  Invention de la structure statique d’un écosystème open data en décomposant l'écosystème en systèmes
 
 Nous effectuons ici la première phase en utilisant comme modèle de départ la représentation d’un écosystème open data issu des travaux de Harrison et al. (2012) et de Ruijer et al. (2017) : 
 
@@ -24,15 +24,15 @@ Nous effectuons ici la première phase en utilisant comme modèle de départ la 
 ##### Figure 15 : représentation de l’écosystème open data selon Harrison et al. (2012) et Ruijer et al. (2017)
 
 **Elements sociaux de l'écosystème**
-Dans cet écosystème on distingue 3 sous-systèmes composés d’agents, qui possèdent chacun un rôle particulier : 
-- Le sous-système composé des politiques et pratiques administratives et gouvernementales a un rôle de fournisseur d’open data : il récupère les données dans les SI des villes pour les transformer en open data 
-- Le sous-système composé selon les auteurs d’innovateurs (qu’ils définissent comme une combinaison d’entreprises, de technologie et d’adminisation) a un rôle d’intermédiaire qui consiste à coordonner la production (offre) et la demande d’open data 
-- Le sous-système composé de réutilisateurs (société civile et entreprises) qui a pour rôle de transformer les données ouvertes pour créer des services 
+Dans cet écosystème on distingue 3 systèmes composés d’agents, qui possèdent chacun un rôle particulier : 
+- Le système composé des politiques et pratiques administratives et gouvernementales a un rôle de fournisseur d’open data : il récupère les données dans les SI des villes pour les transformer en open data 
+- Le système composé selon les auteurs d’innovateurs (qu’ils définissent comme une combinaison d’entreprises, de technologie et d’adminisation) a un rôle d’intermédiaire qui consiste à coordonner la production (offre) et la demande d’open data 
+- Le système composé de réutilisateurs (société civile et entreprises) qui a pour rôle de transformer les données ouvertes pour créer des services 
 
-Dans cet écosystème, c’est de l’interaction des 3 sous-systèmes qu’est issue l'innovation de services. 
+Dans cet écosystème, c’est de l’interaction des 3 systèmes qu’est issue l'innovation de services. 
 
 ![Rôles écosystème](http://opendatatales.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-03-at-15.25.39.png)
-##### Figure 16 : les rôles des 3 sous-systèmes de l’écosystème open data
+##### Figure 16 : les rôles des 3 systèmes de l’écosystème open data
 
 
 **Elements techniques de l'écosystème**
@@ -44,10 +44,10 @@ Service innovation in open data ecosystems describe the fact that data providers
 
 
 
-### Invention de la structure statique des sous-systèmes de l’écosystème open data
+### Invention de la structure statique des systèmes de l’écosystème open data
 
-La deuxième étape consiste à appliquer le même raisonnement que celui de première étape mais à l’échelle des sous-systèmes. 
-Pour effectuer cette nouvelle subdivision, nous reprenons les travaux de Kuk et Davies (2011) qui ont établi que le processus d'innovation de services (figure ci-dessous) est constitué d'un assemblage entre la capacité d’action d’agents (human agency) et d’artefacts technologiques (material agency). En appliquant cette idée dans le cadre d’un sous-système, j’en déduis que chacun d’entre eux est constitué d’un ensemble d'un ensemble d'agents et d'artefacts technologiques. 
+La deuxième étape consiste à appliquer le même raisonnement que celui de première étape mais à l’échelle des systèmes. 
+Pour effectuer cette nouvelle subdivision, nous reprenons les travaux de Kuk et Davies (2011) qui ont établi que le processus d'innovation de services (figure ci-dessous) est constitué d'un assemblage entre la capacité d’action d’agents (human agency) et d’artefacts technologiques (material agency). En appliquant cette idée dans le cadre d’un système, j’en déduis que chacun d’entre eux est constitué d’un ensemble d'un ensemble d'agents et d'artefacts technologiques. 
 
 ![Processus](http://opendatatales.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-03-at-15.42.35.png)
 ##### Figure 17 : processus d'innovation de services selon Kuk et Davies (2011)
