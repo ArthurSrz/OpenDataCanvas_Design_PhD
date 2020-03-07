@@ -46,8 +46,8 @@ Service innovation in open data ecosystems describe the fact that data providers
 
 ### Invention de la structure statique des systèmes de l’écosystème open data
 
-La deuxième étape consiste à appliquer le même raisonnement que celui de première étape mais à l’échelle des systèmes. 
-Pour effectuer cette nouvelle subdivision, nous reprenons les travaux de Kuk et Davies (2011) qui ont établi que le processus d'innovation de services (figure ci-dessous) est constitué d'un assemblage entre la capacité d’action d’agents (human agency) et d’artefacts technologiques (material agency). En appliquant cette idée dans le cadre d’un système, j’en déduis que chacun d’entre eux est constitué d’un ensemble d'un ensemble d'agents et d'artefacts technologiques. 
+La deuxième étape consiste à appliquer le même raisonnement qu'à la première étape mais à l’échelle des systèmes. En l'occurence, il s'agit de proposer une liste d'éléments qui forment la structure des rôles de chaque système. 
+Pour effectuer cette nouvelle subdivision, nous reprenons les travaux de Kuk et Davies (2011) qui ont établi que le processus d'innovation de services (figure ci-dessous) est constitué de l'imbrication entre la capacité d’action d’agents (human agency) et d’artefacts technologiques (material agency). En appliquant cette idée dans le cadre d’un système, j’en déduis que chacun d’entre eux est constitué de l'imbrication des capacités d'action d'agents (human agency) et d'artefacts technologiques (material agency). 
 
 ![Processus](http://opendatatales.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-03-at-15.42.35.png)
 ##### Figure 17 : processus d'innovation de services selon Kuk et Davies (2011)
