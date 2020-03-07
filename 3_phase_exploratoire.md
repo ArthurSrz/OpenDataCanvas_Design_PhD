@@ -37,7 +37,7 @@ Dans cet écosystème, c’est de l’interaction des 3 sous-systèmes qu’est 
 
 **Elements techniques de l'écosystème**
 
-Service innovation in open data ecosystems describe the fact that data providers give data to users, so they can co-create services toward collective interests (Attour and Rallet 2014). More precisely, it breaks down into 3 elements (Lusch and Nambisan, 2015) : the open data ecosystem, the open data platform and value co-creation which refers to “the processes and activities that underlie resource integration and incorporate different actor roles in the ecosystem” (Lusch and Nambisan, 2015, p. 162).
+Service innovation in open data ecosystems describe the fact that data providers give data to users, so they can co-create services toward collective interests (Attour and Rallet 2014). More precisely, it breaks down into 3 elements (Lusch and Nambisan, 2015) : the open data ecosystem, the open data platform and value co-creation mechanisms which refers to “the processes and activities that underlie resource integration and incorporate different actor roles in the ecosystem” (Lusch and Nambisan, 2015, p. 162).
 
 ![](http://opendatatales.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-03-at-16.02.15.png)
 ##### Figure 17 : Positionnement de l'écosystème (Lusch et Nambisan, 2015)
