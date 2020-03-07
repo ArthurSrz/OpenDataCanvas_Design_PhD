@@ -27,7 +27,7 @@ Nous effectuons ici la première phase en utilisant comme modèle de départ la 
 Dans cet écosystème on distingue 3 systèmes composés d’agents, qui possèdent chacun un rôle particulier : 
 - Le système composé des politiques et pratiques administratives et gouvernementales a un rôle de fournisseur d’open data : il récupère les données dans les SI des villes pour les transformer en open data 
 - Le système composé selon les auteurs d’innovateurs (qu’ils définissent comme une combinaison d’entreprises, de technologie et d’adminisation) a un rôle d’intermédiaire qui consiste à coordonner la production (offre) et la demande d’open data 
-- Le système composé de réutilisateurs (société civile et entreprises) qui a pour rôle de transformer les données ouvertes pour créer des services 
+- Le système composé de réutilisateurs (société civile et entreprises) qui a pour rôle de transformer les données ouvertes pour créer des services informationnels permettant de transformer les comportements dans le sens des intérêts collectifs.
 
 Dans cet écosystème, c’est de l’interaction des 3 systèmes qu’est issue l'innovation de services. 
 
