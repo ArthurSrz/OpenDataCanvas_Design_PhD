@@ -29,7 +29,7 @@ Dans cet écosystème on distingue 3 systèmes composés d’agents, qui possèd
 - Le système composé d’innovateurs (qu’ils définissent comme une combinaison d’entreprises, de technologie et d’adminisation), dit système d'intermédiation, qui a un rôle d’intermédiaire qui consiste à coordonner la production (offre) et la demande d’open data.
 - Le système composé de réutilisateurs (société civile et entreprises), dit système de transformation des données, qui a pour rôle de transformer les données ouvertes pour créer des services informationnels permettant de transformer les comportements dans le sens des intérêts collectifs.
 
-Dans cet écosystème, l'innovation de services découle de l’interaction des systèmes  de production et qu’est issue l'innovation de services. 
+Dans cet écosystème, l'innovation de services découle de l’interaction des systèmes de production et de transformation coordonnée par le système d'intermédiation.
 
 ![Rôles écosystème](http://opendatatales.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-03-at-15.25.39.png)
 ##### Figure 16 : les rôles des 3 systèmes de l’écosystème open data
