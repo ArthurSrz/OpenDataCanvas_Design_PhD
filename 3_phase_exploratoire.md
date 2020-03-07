@@ -8,7 +8,7 @@
 - PhD Working Book (5) - p. 46-47 - Pattern de construction de l'écosystème et des barrières
 
 
-Pour inventer un modèle préliminaire de l’usage des données dans un contexte ecosystèmique, je m'inspire ici du pattern d'analyse de système complexe (Vaishnavi et Kuelcher, 2015, p. 107). Il est utile au chercheur en design science quand il cherche à décomposer le fonctionnement d’un système socio-technique complexe. Il se décompose en 4 phases : 
+Pour inventer un modèle préliminaire de la circulation des données dans un contexte ecosystèmique, je m'inspire ici du pattern d'analyse de système complexe (Vaishnavi et Kuelcher, 2015, p. 107). Il est utile au chercheur en design science quand il cherche à décomposer le fonctionnement d’un système socio-technique complexe. Il se décompose en 4 phases : 
 
   1. Invention de la structure statique du système en décomposant le système en sous-systèmes
   2. Invention de la structure statique de chaque sous-système en les décomposant en subdivisions plus petites
