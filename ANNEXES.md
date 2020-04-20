@@ -20,3 +20,12 @@ Production de la Wanted Data List (WDL) --> Mise en place de la convention de pa
   Extraction des données budgétaires nationales --> Transformation en fichiers uniques par collectivité -->   Analyse des données budgétaires --> **//blocage//** --> Création d'informations sur la gestion budgétaire des collectivités --> Mise à jour automatique des données --> Extraction automatique des données budgétaires nationales
 
  > blocage = "Il y a consensus sur le fait que ces données brutes ne permettent pas, dans la majorité des cas, une analyse fine des données budgétaires (notamment pour certaines collectivités sur la répartition par fonction des charges de personnel) et qu’il peut être intéressant, sur le site opendata, de mettre un lien vers les analyses réalisées par les services financiers/communication de chaque collectivité."
+ 
+
+## Cas 3 - Logement
+
+ **Séquence d'articulation 2**
+ 
+Données foncières brutes --> Centre d'Etudes --> Identifier le nombre de locaux par batiment construit et la part de résidence secondaire --> **//blocage//** --> Données contextualisées --> Outils d'exploitation de données --> Etablir une base de données croisant 3 attributs : territoire des communes, géolocalisation des locaux, statut de la résidence --> Données connectées. 
+ 
+> blocage "Autre carence sur MAJIC III : on arrive pas aborder la question des résidences secondaires. Car les parcelles dans MAJIC sont liées aux propriétaires et quand un local appartient à un proprio, le local peut ne pas être localisé au bon endroit. Donc le CEREMA n'a pas réussi à faire une base avec attribut résidence secondaire ou principale. "
