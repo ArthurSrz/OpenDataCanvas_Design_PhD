@@ -36,3 +36,11 @@ Données foncières brutes --> Centre d'Etudes --> Identifier le nombre de locau
   **Séquence d'articulation 2**
  
  Informations dispersées --> Tableur collaboratif --> Recenser les données constituant les informations --> Données indexées --> Plateforme OpSoft --> Permettre l'intégration des données à des applications tierces --> Données indexées --> Plateforme de management de la mobilité urbaine --> Intégration des données pour créer un point unique de souscription --> Données indexées --> Espace de co-création --> Identification des besoins relatifs à la souscription --> Concept d'application --> Plateforme de management de la mobilité urbaine --> Intégration des données de souscription dans une application --> Application de souscription commune à tous les services de mobilité de la métropôle. 
+
+
+## Cas 1 - Quartier
+
+Collecte manuelle 
+
+Données privées --> Annexe --> Sécuriser collecte --> **//blocage//** --> données partageables --> Tableur collaboratif --> Recensement des données --> données indexées 
+ 
