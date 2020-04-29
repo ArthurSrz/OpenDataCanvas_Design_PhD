@@ -29,10 +29,22 @@ Cette infrastructure est beaucoup utilisée dans le pays et permet de connecter 
 Au final, l'usage des données est étudié à travers une approche holistique qui englobe la collecte, la publication, l'infrastructure de publication, les organisations qui maintienne ces infratructures et l'usage des données à travers ces infrastructures. 
 
 
-
-
 ### 3ème étape : construction du protocole et des instruments de l’étude de cas
 
+Yin (2003) suggère de mettre en place un protocole de collecte de données pour renforcer la rigueur d'étude de cas. Ce protocole est par ailleurs particulièrement utile quand plusieurs études de cas sont menées en parallèle, à l'image de notre thèse. 
+
+Ce protocole décrit les démarches d'analyses et de collecte entreprises. Ces deux étapes sont souvent effectuées de manière itérative (Eisenhardt, 1989) pour accentuer la précisions de ces démarches. En l'espèce, nous avons également collecter et analyser nos données de manière itérative. 
+
+Nous avons commencé notre collecte de données en établissant une liste trés large de sujets à évoquer lors de nos entretiens. Nous nous sommes trés vite rendus compte qu'il fallait restreindre cette liste et aborder des sujets en particulier. Cette liste restreinte a été notre guide pendant la deuxième période de collecte. 
+
+Nous avons commencé notre démarche de collecte en partant de l'organisation produisant les jeux de données ouvertes. Cette démarche nous apparaissait opportune dans la mesure où le producteur pouvait avoir une vision exhaustive de l'usage des données ouvertes. De plus, comme il était impossible d'obtenir un annuaire des réutilisateurs, être en contact avec ce producteur nous aurait donné plus d'informations que si nous avions menés nos investigations de manière indépendantes. 
+
+Nous nous sommes basés sur plsuieurs sources de données afin de béneficier d'une forme de triangulation : 
+- observation 
+- entretiens
+- documents 
+
+Voici l'ensemble des données collectées
 
 
 ### 4ème étape : immersion dans le terrain
