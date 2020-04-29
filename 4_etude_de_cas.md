@@ -31,20 +31,44 @@ Au final, l'usage des données est étudié à travers une approche holistique q
 
 ### 3ème étape : construction du protocole et des instruments de l’étude de cas
 
-Yin (2003) suggère de mettre en place un protocole de collecte de données pour renforcer la rigueur d'étude de cas. Ce protocole est par ailleurs particulièrement utile quand plusieurs études de cas sont menées en parallèle, à l'image de notre thèse. 
+Yin (2003) conseille d'utiliser un protocole pour garantir la fiabilité des études de cas. Ce protocole est particulièrement utile quand plusieurs études de cas sont menées en parallèle. Dans cette section, nous construisons notre protocole d'étude de cas. Par là, nous abordons la question de notre approche du terrain, nos guides d'entretiens ainsi que le template utilisé pour nos rapports d'étude de cas. 
 
-Ce protocole décrit les démarches d'analyses et de collecte entreprises. Ces deux étapes sont souvent effectuées de manière itérative (Eisenhardt, 1989) pour accentuer la précisions de ces démarches. En l'espèce, nous avons également collecter et analyser nos données de manière itérative. 
+#### Approche du terrain et guides d'entretien
 
-Nous avons commencé notre collecte de données en établissant une liste trés large de sujets à évoquer lors de nos entretiens. Nous nous sommes trés vite rendus compte qu'il fallait restreindre cette liste et aborder des sujets en particulier. Cette liste restreinte a été notre guide pendant la deuxième période de collecte. 
+La manière dont un chercheur analyse et collecte des données est un aspect important de l'approche du terrain. De nombreuses études de cas sont construites d'ailleurs par des aller-retours entre la collecte et l'analyse, ce qui est également notre cas. 
 
-Nous avons commencé notre démarche de collecte en partant de l'organisation produisant les jeux de données ouvertes. Cette démarche nous apparaissait opportune dans la mesure où le producteur pouvait avoir une vision exhaustive de l'usage des données ouvertes. De plus, comme il était impossible d'obtenir un annuaire des réutilisateurs, être en contact avec ce producteur nous aurait donné plus d'informations que si nous avions menés nos investigations de manière indépendantes. 
+L'avantage de ces aller-retours est de permettre au chercheur d'être flexible pendant la collecte des données. La collecte et l'analyse simultannées lui permettant de faire rapidement des ajustements sur la base des analyses préliminaires. Ceci lui permettra par exemple de réduire ses champs d'investisations et de se concentrer sur des thèmes spécifiques qui n'apparaissaient pas forcément avant de commencer la collecte (Eisenhardt, 1989). Dans notre cas, les facteurs permettant d'influencer l'usage de de l'open data tels qu'identifiés dans la littérature sont apparus rapidement comme étant les thèmes à sonder dans notre étude de cas. 
 
-Nous nous sommes basés sur plsuieurs sources de données afin de béneficier d'une forme de triangulation : 
-- observation 
-- entretiens
-- documents 
+Eisenhardt (1989) suggère également que la collecte et l'anayse simultanées peuvent être facilité par des notes d'observation et des notes d'analyse. Ces notes décrivent le déroulé de la recherche et constitue un journal de bord pour le chercheur. Les notes d'observations décrivent ce qu'il s'est passé et les notes d'analyses comment ces évènements peuvent être analysés. Grâce à ces notes, des pattern intra-cas peuvent être rapidement identifiés à la suite de quoi il est possible de faire une analyse inter-cas, qui force le chercheur à dépasser ses impressions initiales. En effet, ces analyses intra-cas et inter-cas lui offre plusieurs angles d'analyse qui l'invitent à former des hypothèses nouvelles. 
 
-Voici l'ensemble des données collectées
+Nous avons commencé par examiner les cas de Grenoble et de Lyon en établissant une vaste liste de thèmes à aborder que nous présentons dans la figure ci-dessous. Les données collectées suivant cette vaste liste ont été analysées durant la première partie de nos études de cas. Sur la base de ces analyses, nous avons restreint la liste des thèmes à aborder et nous avons concentré nos collectes et analyses de données en utilisant le framework de facteurs qui influence l'usage des données, tel qu'évoqués dans la revue de littérature du chapitre 3. Ce framework a délimité les frontières de la deuxième partie de nos étude de cas et prescrit les aspects des cas à investiguer plus en profondeur. Finalement, les résultats des études de cas ont été présentés aux participants de manière à ce qu'ils puissent nous donner un retour sur les besoins fonctionnels identifiés. Ces besoins ont été construit suite à un processus itératif. En effet, les étapes présentées ci-dessus ont été pérées plusieurs fois. Une fois les retours collectés, nous avons relancé la collecte et l'analyse de données
+
+Nous avons commencé notre démarche de collecte en partant de l'organisation produisant les jeux de données ouvertes. Nous justifions ce choix par le fait que l'usage de l'open data est en grande partie déterminé par la manière dont les données sont publiées. Par conséquent, de nombreux aspects de l'usage des données peuvent être analysés en analysant la manière dont les données sont publiées. Ensuite, ce choix se justifie par le fait qu'en basant notre étude sur l'organisation productrice, nous pouvions opter pour une approche systématique. En basant notre étude sur les organisations gouvernementales responsables de la publication, nous pouvions clairement délimiter les frontières de notre étude de cas. Aussi était-il possible d'étudier de manière systématique les facteurs qui influencent l'usage de l'open data 
+
+#### Guide pour la réalisation de rapports d'études de cas 
+
+Les rapports d'étude de cas ont été réalisé en suivant le framework de facteurs influençant l'usage de l'open data tel que décrit dans le chapitre 3. Ce framework décrit les activités qu'il faut analyser (recherche, analyse, visualisation, interactions autour des données et qualité des données) ainsi que les clusters de facteurs qu'il faut examiner dans ces cas comme la fragmentation des données, les outils et supports d'interctions et le contexte de production de la donnée. Pour chaque cas, nous avons récolté des donnée sur chacun des facteurs. Nous avons construit les besoins fonctionnels sur la base des données récoltées sur ces facteurs. 
+
+#### Source et méthodes de collecte de données collectées 
+
+Les études combinent plusieurs sources et méthodes de collecte de données. Ces sources multiples permettent de produire des résultats plus robustes et maximise la validité et la fiabilité du construit (Yin, 2003). Ces données sont souvent intégrées en utilisant la triangulation. Nous avons basé nos étude de cas sur 5 sources et méthodes de collecte de données 
+
+![]()
+##### Figure : sources de collecte
+
+Nous présentons ces sources et méthodes de collecte : 
+
+* Etude de documents : types de documents étudiés, liste des documents étudiés (figure)
+
+![]()
+
+* Entretiens semi-directifs : profil des personnes interviewées, liste des personnes (figure)
+
+![]()
+
+* Observations participantes : activités observées, liste des activité (figure), notes prises
+
+![]()
 
 
 ### 4ème étape : immersion dans le terrain
