@@ -71,15 +71,24 @@ Nous présentons ces sources et méthodes de collecte :
 ![]()
 
 
-### 4ème étape : immersion dans le terrain
+### 4ème étape/5ème étape/6ème étape : immersion dans le terrain, analyse intra-cas, pattern inter-cas
 
+Nous décrivons chacun des facteurs influençant l'usage des données ouvertes rencontrés dans les deux cas analysés
 
+#### Support de recherche
 
-### 5ème étape : analyse intra-cas
+Nous définissons comme suport de recherche toutes les fonctionnalités avancées et multilingues permettant de localiser des jeux de données. L'infrastruture DANS met à disposition ce type de support de recherche par l'intermédiaire de mots clés et de catégories de données (producteur des données, date d'ouverture, type d'accès) qui facilitent la recherche de données. De même, ce support de recherche est disponible en anglais. Ceci veut dire qu'un utilisateur peut rentrer un mot en anglais ou s'orienter grâce aux métadonnées disponsibles également en anglais. 
+En revanche, les autres fonctionnalités permettant par exemple de faire une requête de nombreux jeux de données ne sont pas disponibles sur la plateforme. Nos entretiens avec les utilisateurs de DANS pointent clairement du doigt un besoin d'amélioration de la plateforme dans ce domaine. Selon un utilisateur : "cela prend beaucoup de temps de trouver un jeu de données. Les fonctionnalités de recherche sont plutôt médiocre" ou encore selon un autre : "ce qui est en place mache raisonnablement bien mais le moteur de recherche google est meilleur et plus rapide". 
+Nos deux cas ont également démontré qu'il y avait un besoin de trouver les données provenant de plusieurs pays de manière à pouvoir les comparer. Dans le cas des données sociales, les données sur l'utilisation du temps sont partagées et comparées. Dans le cas des données judiciaires, l'importance du pultilinguisme a été souligné à de nombreuses reprises : "le multilinguisme est un avantage marketing essentiel". 
 
+#### Contexte de données
 
+Dans nos deux cas, nous avons collecté des données sur les démarches permettant d'obtenir des informations sur le contexte de création des données, ou _métadonnées_. Dans les deux cas observés, l'infrastructure DAN demande aux producteurs de spécifier quelques informations sur le contexte de création du jeu de données qu'il souhaite ouvrir. Il est par exemple demandé de spécifier les instruments utilisés pour collecter les données, un rapport du travail de terrain effectué et la méthode de l'étude ayant produite les données. En revanche, ces informations ne sont pas fournies dans un format lisible par machine, mais sous la forme de PDF ou de ichier Word, ce qui complexifie la découverte de métadonnées pour les utilisateurs. 
+La production de métadonnée a aussi été examiné du point de vue du producteur de données. Nous avons compris que le système de métadonnées utilié par le fournisseur de données judiciaires contenaient plusieurs champs de métadonnées pouvant être utile à l'utilisateur de données. Cependant, il n'y avait aucun champ concernant le contexte de production des données. Il a donc fallu pour le producteur de données investir du temps dans la production de ces métadonnées. 
+Pour sa part, le fourniseur de données sociales utilisait un système de base de données relationnelle décrivant les métadonnées. Le système contenait beaucoup de métadonnées concernant le contexte de production des données dont des données sur la période de temps et la population concernée par les données. De plus, le système décrivait les données selon plusieurs standards. 
+Les métadonnées sont perçue comme un aspects important de la mise à disposition de données. Le responsable de l'ouverture des données nous a exprimé ses inquiétudes concernant le faible volume de métadonnées disponibles : "selon moi, le principal challenge du point de vue de l'utilisateur : les métadonnées. C'est à dire le manque de documentation qui permet une bonne utilisation de la données. 
+Ces informations confirment les conclusions de notre revue de littérature selon laquelle les métadonnées sont une condition de la bonne utilisation des jeux de données et plus particulièrement de leur analyseet interprétation.  
 
-### 6ème cas : recherche de pattern inter-cas
 
 
 ### 7ème cas : Ebauche d'hypothèses
