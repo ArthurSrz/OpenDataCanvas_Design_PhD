@@ -90,14 +90,35 @@ Les métadonnées sont perçue comme un aspects important de la mise à disposit
 Ces informations confirment les conclusions de notre revue de littérature selon laquelle les métadonnées sont une condition de la bonne utilisation des jeux de données et plus particulièrement de leur analyseet interprétation.  
 
 
+### 7ème étape : Ebauche d'hypothèses - Identification des besoins fonctionnels pour une intervention en Système d'Information
 
-### 7ème cas : Ebauche d'hypothèses
+Dans cette section, nous identifierons les besoins fonctionnels auxquels doit répondre une infrastructure ...(question de recherche). Pour cela, nous nous baserons sur la description des deux études de cas mentionnés ci-dessus. 
+
+Un besoin fonctionnel décrit les fonctionnalités dont les utilisateurs d'une infrastructure auraient besoin pour faciliter la coordination des activités d'usage de l'open data. Il n'est pas ici question d'identifer des besoins non-fonctionnels (durabilité, maintenabilité, simplicité). Nous partons du principe que ces besoins sont remplis. Plutôt, nous nous concentrerons sur les besoins des utilisateurs eux-mêmes.  
+
+Nous avons classé les besoins fonctionnels par cluster de facteurs facilitant l'usage de l'open data. Nous capitalisons sur cette classification du fait qu'elle contenait déjà des indications intéressants sur l'orientation à donner à l'infrastructure. 
+
+**Fragmentation des données**
+
+Les deux cas ont montré que la dispersion des données représentait un vrai problème pour les utilisateurs de données. (Suite de la description du problème). De cette difficulté nous dérivons le premier besoin fonctionnel, à savoir que l'infrastructure doit consister en un agréagateur de données provenant de multiples sources gouvernementales. 
+
+**Assistance à la recherche de données**
+
+**Héterogénéité des terminologies**
+
+
+Dans cette première partie, nous avons identifié les besoins relatifs à la **, ** et **. 
+
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
 
 
 
-### 8ème cas : Confrontation avec la littérature
+### 8ème étape : Confrontation avec la littérature
  
 
 
-### 9ème cas : Atteinte du point de clôture 
+### 9ème étape : Atteinte du point de clôture 
 
