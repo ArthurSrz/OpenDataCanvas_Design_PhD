@@ -92,22 +92,30 @@ Ces informations confirment les conclusions de notre revue de littérature selon
 
 ### 7ème étape : Ebauche d'hypothèses - Identification des besoins fonctionnels pour une intervention en Système d'Information
 
-Dans cette section, nous identifierons les besoins fonctionnels auxquels doit répondre une infrastructure ...(question de recherche). Pour cela, nous nous baserons sur la description des deux études de cas mentionnés ci-dessus. 
 
-Un besoin fonctionnel décrit les fonctionnalités dont les utilisateurs d'une infrastructure auraient besoin pour faciliter la coordination des activités d'usage de l'open data. Il n'est pas ici question d'identifer des besoins non-fonctionnels (durabilité, maintenabilité, simplicité). Nous partons du principe que ces besoins sont remplis. Plutôt, nous nous concentrerons sur les besoins des utilisateurs eux-mêmes.  
+Dans cette section, il est question de définir comment une infrastructure devrait s'insérer pour faire évoluer les deux cas tels que présentés de la section précédente. En effet, nous nous baserons ici sur les analyses de la section précédente pour pouvoir identifier les besoins fonctionnels adressés par une infrastructure visant à améliorer la coordination de l'usage de l'open data. Alors que dans la section précédente nous avons décrit les facteurs qui influence l'usage de l'open data, cette section traduit les facteurs identifié en besoins fonctionnels concrets, adressés subsequemment par le design d'une infrastructure Open Data. 
 
-Nous avons classé les besoins fonctionnels par cluster de facteurs facilitant l'usage de l'open data. Nous capitalisons sur cette classification du fait qu'elle contenait déjà des indications intéressants sur l'orientation à donner à l'infrastructure. 
+Les besoins fonctionnels sont les besoins qui sculptent et définissent comment les fonctionnalités d'un système peuvent être utilisées (Stellman et Greene, 2005). Nous nous concentrons sur les besoins fonctionnels dans la mesure où cette étude a pour objectif de comprendre quelle type d'infrastructure sera perçue comme fonctionnelle et utilisable. Cette étude ne traitera pas les besoins à combler pour assurer la maintenabilité, la scalabilité ou la durabilité qui sont des besoins non-fonctionnels, mais plutôt cherchera ce que les utilisateurs attendent d'une infrastructure. Cela étant, nous partirons du postulat que les besoins non-fonctionnels sont assurés. 
 
-**Fragmentation des données**
-
-Les deux cas ont montré que la dispersion des données représentait un vrai problème pour les utilisateurs de données. (Suite de la description du problème). De cette difficulté nous dérivons le premier besoin fonctionnel, à savoir que l'infrastructure doit consister en un agréagateur de données provenant de multiples sources gouvernementales. 
-
-**Assistance à la recherche de données**
-
-**Héterogénéité des terminologies**
+Nous organiserons cette section en suivant à nouveau la distinction des différents types d'usage de l'open tels qu'identifiés dans le chapitre 3. Des besoins fonctionnels sont identifiés dans chacun des clusters de facteurs influençant l'usage des données ouvertes. Nous avons fait ce choix car cette manière de classer les besoins fonctionnels est en soi porteur de sens et nous permet, indirectement, de prendre une position dans l'orientation des besoins fonctionnels. Par exemple, le premier type d'usage de l'open data (à savoir chercher et trouver des données ouvertes) suggère indirectement que l'infrastructure doit mettre à disposition des mécanismes pour chercher et trouver des données ouvertes.
 
 
-Dans cette première partie, nous avons identifié les besoins relatifs à la **, ** et **. 
+**Les besoins fonctionnels relatifs à la recherche**
+
+Les besoins relatifs à la recherche et à la découverte de l'open data consistent principalement à améliorer les fonctionnalités de recherche et de découverte des infrastructures d'open data. Nous présentons ci-dessous les besoins fonctionnels qui adresse la fragmentation des données, l'hétérogénéité des terminologies, les supports à la recherche et la surcharge d'information.
+
+
+  **1.Fragmentation des donnéess**
+  
+  **2.Héterogénéité des terminologies**
+  
+  **3.Support à la recherche**
+  
+  **4.Surcharge d'information**
+
+  **Synthèse**
+
+Dans le tableau ci-dessous, nous résumons les besoins fonctionnels relatifs à la **, ** et **. 
 
 |   |   |   |   |
 |---|---|---|---|
