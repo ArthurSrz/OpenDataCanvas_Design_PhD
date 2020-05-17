@@ -1,4 +1,5 @@
-# Identification des kernel theories dans un stock de connaissances pertinent et permettant de guider le développement scientifique d'un artefact facilitant les interactions homme-données
+# Design d'un `dispositif en Système d'Information` permettant de résoudre les situations problématiques qui freinent l'usage des données ouvertes
+
 
 Dans le chapitre précédent...
 
