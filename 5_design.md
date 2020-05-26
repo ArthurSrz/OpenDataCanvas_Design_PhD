@@ -7,7 +7,7 @@ Dans ce cinquième chapitre, il est question de passer des besoins fonctionnels 
   2. Des mécanismes issus de *kernel theories* qui expliquent en quoi les éléments fonctionnels permettant le passage de la situation problématique à la situation désirée. On parle de **principes de design**
   3. Un modèle conceptuel qui dessine l'architecture de l'artefact, intègre les éléments fonctionnels et explique les fonctions qu'il assurera dans un contexte réel. On parle également du **design du système** que consitue l'artefact.
 
-### Construction des proposisions de design
+### Construction des propositions de design
 
 Pour pouvoir construire les propositions de design, nous avons conduit une nouvelle revue de la littérature visant à identifier des éléments fonctionnels qui puissent répondre aux 12 besoins fonctionnels identifiés dans le [chapitre précédent](4.1.4_connaissance_resultats_discussion.md).Précisons que cette revue de littérature vient compléter celle présentée au [chapitre 2](1.0_revue_de_litterature.md) en ce qu'elle vise à identitifer des articles et atteindre des résultats complémentaires.
 
