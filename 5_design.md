@@ -32,6 +32,15 @@ Enfin, cette revue de littérature a été menée sur la base d'une liste de mot
 
 ### Construction des principes de design
 
-- PhD Working Book (4) - p. 28-29 - Définition et exemples de principes de design 
+Les principes de design précisent les propositions mentionnées ci-dessus. 
+
+Pour construire les principes de design, nous avons orienté la revue de littérature dans une nouvelle direction : la recherche de _kernel theories_. Ces kernel theories jouent le rôle de "noyau" théorique autour duquel nous construirons le design de l'artefact, résultat final de cette thèse. Hanseth et Lyytinen (2004) les définissent comme "les théories issues des sciences naturelles et sociales qui gouvernent les exigences de conception ou le processus qui permet de les construire". 
+
+Bharosa (2011) précise que ces théories acquièrent un caractère opérationnel par leur traduction en "lignes directrices et normatives, formulées de façon à permettre aux architectes de système d'information d'agir" (Bharosa, 2011, p.118). A ce propos, précisons dès à présent que dans cette thèse, nous partons, avec Gregor (2006), du postulat que des théories peuvent parfaitement acquérir un caractère normatif et directif. Dans son article majeur sur la théorie du design, Gregor (2006) établit qu'il existe 5 types de théories interdépendantes : les théories pour analyser (1), les théories pour expliquer (2), les théories pour prédire (3), les théories pour expliquer et prédire (4), et les théorie pour agir et designer dites (5). Ces théories ne s'opposent pas. Elles se complètent. En l'espèce, les _kernel theories_, choisies parmi les quatre premiers types de théories, "informent" le cinquième type : les théories pour agir et designer (Carlsson, 2006, p.222). Pour faciliter sa compréhension de cette relation entre théories, le lecteur pourra considérer que les _kernel theories_ sont un noyau théorique duquel une lecture "orientée pratique" permet d'extraire un design et/ou une théorie du design
+
+Si les_kernel theories_ sont issues d'une lecture "orientée pratique" des quatre autres types de théories, il s'agit pour les identifier d'approfondir la revue de littérature mentionnée dans la section précédente. Pour cela, nous avons repris les mêmes articles, en cherchant les références théoriques qui pouvaient nous orienter vers des _kernel theories_. Une fois ces _kernel theories_ identifiées, nous avons rajouté leur nom à la liste des mots-clés utilisés pour effectuer nos recherches dans les bases de données (Crossref, Google Scholar, Microsoft Academic et Scopus). De ces recherches nous avons extrait des articles délimitant le champ des courants de littérature associées aux _kernel theories_. 
+
+Finalement nous avons analysé ces articles en cherchant à extraire les configurations PIMCO (_Problem, IS Initiative, Mechanisms, Context, Outcome_) décrites par Carlsson (2006). Il s'agit d'extraire la situation problématique adressée par la théorie (_Problem_) ; l'intervention en Système d'Information évoquée dans la théorie pour le résoudre (_IS Initiative_) ;  les mécanismes sociaux, naturels ou techniques qui justifient le changement opéré par l'intervention (_Mechanisms_) ; le contexte de mise en oeuvre de cette intervention (_Context_) ainsi les résultats escomptés (_Outcome_).  
+
 
 ### Construction du design du système
