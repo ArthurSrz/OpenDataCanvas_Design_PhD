@@ -44,3 +44,5 @@ Finalement nous avons analysé ces articles en cherchant à extraire les configu
 
 
 ### Construction du design du système
+
+Au regard du modèle théorique développé au [chapitre 3](3.1.3_explo_connaissance_formation.md), nous avons décidé de designer un environnement de conception des usages des données ouvertes dit artefact de meta-design (Fischer et Giaccardi, 2006).
