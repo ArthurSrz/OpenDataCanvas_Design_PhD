@@ -44,8 +44,9 @@ Finalement nous avons analysé ces articles en cherchant à extraire les configu
 
 
 ### Construction du design du système
+Sur la base des 12 principes de design, nous avons designé un `dispositif en système d'information` visant à faciliter l'usage des données ouvertes. Tous les principes ont été incorporés dans le design. 
 
-Au regard du modèle théorique développé au [chapitre 3](3.1.3_explo_connaissance_formation.md), nous avons décidé de designer un environnement de conception des usages des données ouvertes dit artefact de meta-design (Fischer et Giaccardi, 2006).
+Pour rappel, au regard du modèle théorique développé au [chapitre 3](3.1.3_explo_connaissance_formation.md), nous avons décidé de designer un environnement de conception des usages des données ouvertes dit artefact de meta-design (Fischer et Giaccardi, 2006).
 
 - [ ] Rappel de généralités sur un artefact de meta-design (Fischer et Giaccardi, 2006 ; Fischer et Schraff, 2000 ; Giaccardi, 2003, p.156)
 - [ ] "Par design, il s'agit de construire le design du système (définition) dans sa totalité" + Design de chaque élément fonctionnel.  En déduire et donner le design du système global (avec schéma)
