@@ -43,7 +43,7 @@ Si les_kernel theories_ sont issues d'une lecture "orientée pratique" des quatr
 Finalement nous avons analysé ces articles en cherchant à extraire les configurations PIMCO (_Problem, IS Initiative, Mechanisms, Context, Outcome_) décrites par Carlsson (2006). Il s'agit d'extraire la situation problématique adressée par la théorie (_Problem_) ; l'intervention en Système d'Information évoquée dans la théorie pour le résoudre (_IS Initiative_) ;  les mécanismes sociaux, naturels ou techniques qui justifient le changement opéré par l'intervention (_Mechanisms_) ; le contexte de mise en oeuvre de cette intervention (_Context_) ainsi les résultats escomptés (_Outcome_).  
 
 
-### Construction du design du système
+### Construction du design de l'artefact 
 Sur la base des 12 principes de design, nous avons designé un `dispositif en système d'information` visant à faciliter l'usage des données ouvertes. Tous les principes ont été incorporés dans le design. 
 
 Pour rappel, au regard du modèle théorique développé au [chapitre 3](3.1.3_explo_connaissance_formation.md), le `dispositif en système d'information` que nous avons décidé de designer est un environnement de conception des usages des données ouvertes dit artefact de meta-design (Fischer et Giaccardi, 2006). Un artefact de meta-design se définit comme "une infrastructure technique et sociale dans laquelle de nouvelles formes de design collaboratifs peuvent prendre forme. Il dépasse la notion traditionnelle d'artefact en ce qu'il intègre un processus co-adptatif entre l'artefact et l'utilisateur, élevant ainsi l'utilisateur au rang de co-développeur ou de co-designer de l'artefact" (Fischer et Giaccardi, 2006, p.1). 
