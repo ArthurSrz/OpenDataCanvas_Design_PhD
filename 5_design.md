@@ -57,7 +57,7 @@ Dans cette partie, il s'agit de construire le design du système que constitue l
 
 Ensuite, nous préciserons les pattern de coordination. Ces pattern définissent les parties réutilisables d'un design, leurs apports et comment ils peuvent être appliqués dans un contexte réel, ainsi que les relations qu'entretiennent les différentes parties du design entre elles (Offermann et al., 2010). La figure ci-dessous représente ces pattern de coordination. Nous avons fait le choix de présenter ces pattern de coordination sous la forme de scénario d'usage, c'est à dire sous une forme narrative "qui décrit la situation dans laquelle l'usage de l'outil en cours de conception, va se construire et prendre sens"(Pascal et Rouby, 2006). Pour construire ce scénario, nous utiliserons le modèle de scénario d'usage. proposé par Pascal et Rouby (2006) qui donne une liste d'item pertinent pour construire les scénarios et les renseigner. 
 
-[](http://opendatatales.com/wp-content/uploads/2020/07/Figures-graphiques-4.png)
+![](http://opendatatales.com/wp-content/uploads/2020/07/Figures-graphiques-4.png)
 ##### Figure : pattern de coordination de l'environnement de conception des usages.
 
 - [ ] réutiliser les carnets sur l'explication de Datafruit pour renseigner ces scenario d'usage. 
