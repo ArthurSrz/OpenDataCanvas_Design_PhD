@@ -134,7 +134,9 @@ Aussi appelés "principes de construction", ils se définissent comme « un ens
 Design augmenté par un cadre théorique et des propositions qui précisent son comportement dans un contexte réel (Offermann et al., 2010, p. 86)
 
 ### Kernel theories
-- [ ] done 
+- [X] done
+
+Théorie choisie parmi les quatre premiers type de théorie de la classification de Jones (les théories pour analyser, les théories pour expliquer, les théories pour prédire, et les théories pour expliquer et prédire) et qui informe le cinquième type, à savoir les théories pour agir et designer. 
  
 ### "On juge un arbre à ses fruits" (évaluation)
 - [ ] done 
@@ -159,11 +161,14 @@ Type d'évaluation utilisé quand l'artefact est en cours de développement et q
 
 Type d'évaluation visant à établir la capacité d'un artefact à atteindre les objectifs initialement fixés (utilité, efficacité, etc.)
 
-### Principes de design 
-- [ ] done 
+### Principe de design 
+- [X] done 
+
+Ligne directive et normative permettant au chercheur-concepteur d'agir. Il se formule selon la logique "PIMCO" : `étant donné le contexte théorique C(t), pour résoudre la classe de problème P, il est pertinent de mettre en oeuvre l’intervention I dans la mesure où elle déclenchera les mécanismes naturels, sociaux ou techniques M, moteurs pour atteindre l’objectif O`
+
 
 ### Proposition de design
-- [ ] done 
+- [X] done 
 
 Elément permettant d'informer et de guider les praticiens dans la réponse à apporter à leurs besoins opérationnels. Il se formule selon la logique de la règle technologique de Bunge (1967) : `étant donné le contexte C et dans l'objectif d'atteindre l'objectif O, alors utiliser l'intervention I`. 
 
