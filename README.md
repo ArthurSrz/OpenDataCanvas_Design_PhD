@@ -165,6 +165,9 @@ Type d'évaluation visant à établir la capacité d'un artefact à atteindre le
 ### Proposition de design
 - [ ] done 
 
+Elément permettant d'informer et de guider les praticiens dans la réponse à apporter à leurs besoins opérationnels. Il se formule selon la logique de la règle technologique de Bunge (1967) : `étant donné le contexte C et dans l'objectif d'atteindre l'objectif O, alors utiliser l'intervention I`. 
+
+
 ### Design d'un système
 - [ ] done 
 
