@@ -61,7 +61,26 @@ Dans cette partie, il s'agit de construire le design du système que constitue l
 ![](http://opendatatales.com/wp-content/uploads/2020/07/Figures-graphiques-3.png)
 ##### Figure : Design du système de l'environnement de conception des usages et des trois éléments fonctionnels
 
-Ensuite, nous préciserons les pattern de coordination. Ces pattern définissent les parties réutilisables d'un design, leurs apports et comment ils peuvent être appliqués dans un contexte réel, ainsi que les relations qu'entretiennent les différentes parties du design entre elles (Offermann et al., 2010). La figure ci-dessous représente ces pattern de coordination sous forme de flèches colorées. Nous avons fait le choix de présenter ces pattern de coordination sous la forme de scénario d'usage, c'est à dire sous une forme narrative "qui décrit la situation dans laquelle l'usage de l'outil en cours de conception, va se construire et prendre sens"(Pascal et Rouby, 2006). Pour construire ce scénario, nous utiliserons le modèle de scénario d'usage. proposé par Pascal et Rouby (2006) qui donne une liste d'item pertinent pour construire les scénarios et les renseigner. 
+Ensuite, nous préciserons les pattern de coordination. Ces pattern définissent les parties réutilisables d'un design, leurs apports et comment ils peuvent être appliqués dans un contexte réel, ainsi que les relations qu'entretiennent les différentes parties du design entre elles (Offermann et al., 2010). La figure ci-dessous représente ces pattern de coordination sous forme de flèches colorées. Nous avons fait le choix de présenter ces pattern de coordination sous la forme de scénario d'usage, c'est à dire sous une forme narrative "qui décrit la situation dans laquelle l'usage de l'outil en cours de conception, va se construire et prendre sens"(Pascal et Rouby, 2006). Pour construire ce scénario, nous utiliserons le modèle de scénario d'usage proposé par Pascal et Rouby (2006).
+
+Cette approche possède une double utilité pour le chercheur-concepteur que je suis. En premier lieu, elle fait du scénario d'usage une aide substantielle pour m'aider à concevoir un environnement de conception des usages des données qui soit compatible avec l'environnement et le quotidien de ses futurs utilisateurs, que l'on designera comme "système fonctionnel d'accueil" (Pascal et Rouby, 2006, p.3). En d'autres termes, cette approche prête au scénario d'usage la qualité trés utile de renforcer la coordination de mon artefact avec le contexte réel de ses futurs utilisateurs. Pour cela, le scénario d'usage viendra peupler les items suivants tirés des données récoltées pour l'étude de cas présentée au [chapitre 4](4.0_etude_de_cas.md) : 
+
+- [ ] mentionner ici le travail à l'échelle nationale avec Datactivist X FING ?
+
+- Caractéristiques de l'utilisateur de l'artefact : identification, statut, rôle, caractéristiques personnelles susceptibles d'impacter ses attentes concernant l'artefact (formation, expérience ...).
+- Tâches réalisées à l'aide de l'artefact et type de déroulement (séquentiel, itératif, en parallèle) : voir section précedente
+- Les partenaires qui prendront part à la réalisation des tâches
+- Les ressources qui seront mobilisées pour réaliser les tâches
+- Les informations et flux d'informations nécessaires pour réaliser les tâches
+- Les outputs des tâches réalisées
+
+Dans un second temps, elle permet également de faire du scénario d'usage une aide pour m'aider à intégrer l'artefact dans l'environnement structurel de réference des usages (ensemble de règles et ressources). En d'autres termes, l'approche de cognitivo-structurationniste prête au scénario d'usage la qualité de renforcer la coordination de mon artefact avec le contexte structurel, (evidemment plus large que le contexte quotidien des futurs utilisateurs) des grandes logiques d'action sollicitées par les acteurs et organisations impliquées dans le développement des usages des données ouvertes. Pour cela, le scénario d'usage viendra peupler les items suivants tirés des données récoltées pour l'étude de cas présentée au [chapitre 4](4.0_etude_de_cas.md) : 
+
+- Les schémes interprétatifs utilisés pour guider les actes des individus (modes de raisonnement, cadres de référence ou représentation collective). Ces schémes sont compris ici comme les enjeux, contours et contenus du procesuss entourant les tâches réalisées par les acteurs
+- les normes qui jusitifient et légitiment les actes, comprises comme moyen d'assignation de rôles et de devoirs aux utilisateurs de l'artefact et à leurs partenaires
+- les facilités, comprises comme les ressources d'allocation et d'autorité que les auteurs mobilisent dans leur action, et qui vont subsequemment permettre de solliciter des ressources et des informations spécifiques.
+
+
 
 ![](http://opendatatales.com/wp-content/uploads/2020/07/Figures-graphiques-4.png)
 ##### Figure : pattern de coordination de l'environnement de conception des usages.
