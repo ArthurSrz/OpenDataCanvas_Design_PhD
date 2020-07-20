@@ -1,4 +1,4 @@
-# Chapitre 6 : prototypage d'un `dispositif` en systèmes d'information à partir du design construit
+# Chapitre 6 : prototypage d'un `dispositif en système d'information` à partir du design construit
 
 - [ ] Préciser la classe de l'artefact
 
