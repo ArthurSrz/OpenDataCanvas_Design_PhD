@@ -1,6 +1,10 @@
-# Chapitre 6 : prototypage d'une intervention en systèmes d'information à partir des kernel theories et permettant de faciliter les interactions homme-données
+# Chapitre 6 : prototypage d'un `dispositif` en systèmes d'information à partir du design construit
 
-Dans le chapitre précédent, nous avons détaillé le processus de design qui, à partir des **besoins fonctionnels** des opérateurs de l'open data, nous a permis d'identifier des *kernel theories* pour guider le design d'**intervention en systèmes d'information** permettant de répondre à la question de recherche. Nous avons également pu identifier dans la littérature un certain nombre d'**éléments fonctionnels** que l'intervention devra nécessairement intégrer pour assurer le passage de la **situation problématique** à la **situation désirée** (Carlsson, 2010, p.220). Ensemble, ces deux éléments nous ont permis de déterminer un modèle de design (un environnement de conception des usages), et de le rattacher à une classe, à savoir les artefact de _meta-design_ (Offerman et al., 2010). 
+- [ ] Préciser la classe de l'artefact
+
+Dans le chapitre précédent, nous avons détaillé le processus de design qui, à partir des **besoins fonctionnels** des opérateurs de l'open data, nous a permis d'identifier des *kernel theories* pour guider le design d'**intervention en systèmes d'information** permettant de répondre à la question de recherche. Nous avons également pu identifier dans la littérature un certain nombre d'**éléments fonctionnels** que l'intervention devra nécessairement intégrer pour assurer le passage de la **situation problématique** à la **situation désirée** (Carlsson, 2010, p.220). Ensemble, ces deux éléments nous ont permis de déterminer un modèle de design (modèle des artefact de _meta-design_), et de le rattacher à une classe de _design_, à savoir celle des _process-design_ définie par Carlsson (2006) comme : 
+
+> "The professional’s own plan for the problem solving cycle and includes the methods and techniques to be used to design the solu- tion (the IS intervention) to the problem"- **Carlsson (2006, p.204)**
 
 L'objet de ce chapitre est d'assurer le passage de la dimension conceptuelle à la dimension matérielle. Autrement dit, il s'agit de mettre en oeuvre un processus d'instanciation qui permet "d'implémenter des fonctionnalités dans un objet à partir d'une structure prédéfinie et pré-optimisée" (Cofer et Harding, 2006, p.120). 
 
