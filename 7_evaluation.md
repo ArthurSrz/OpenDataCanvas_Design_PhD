@@ -1,4 +1,4 @@
-# 7. Evaluations visant à estimer la capacité d'Innodata à faciliter les interactions entre les opérateurs de l'open data et les *data spaces*
+# 7. Evaluation visant à estimer la capacité du prototype à résoudre les tensions paradoxales qui font obstacle à l'usage des données ouvertes
 
 Dans le chapitre précédent, nous avons détaillé le  [**processus de prototypage**](README.md) qui nous a amené à concevoir l'[**artefact**](README.md). Aussi avons-nous décrit formellement la structure de cet artefact et expliqué en quoi ses différents éléments pourraient répondre aux différents aspects de la question. Ces explications sont autant de réponses temporaires dont il s'agit d'évaluer la [**pertinence empirique**](README.md) et la [**rigueur scientifique**](README.md) dans ce chapitre. 
 
