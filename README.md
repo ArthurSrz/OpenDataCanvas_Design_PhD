@@ -132,7 +132,7 @@ Problème scientifique caractérisé par :
 
 
 ### Approche design science
-- [ ] done 
+- [X] done 
 
 Approche scientifique visant à créer un artefact utile pour la résolution d’un problème pratique. Cette approche inscrit le chercheur et ses outils dans un rôle de médiation et de facilitation dont béneficie les praticiens impliqués dans le recherche. Les connaissances produites par cette approche, prescritives, viennent compléter les connaissance descriptives existantes, permettent d’aborder des questions inaccessibles aux outils méthodologiques traditionnels et permettent de réduire l’écart entre le théorie et la pratique. Par là, cette approche permet d’améliorer la pertinence et la notoriété de la recherche.  
 
