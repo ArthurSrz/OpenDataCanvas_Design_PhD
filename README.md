@@ -16,14 +16,37 @@ Formule qui résume le regard critique porté sur la littérature scientifique d
 
 Une question articulant des objets théoriques, empiriques ou méthodologiques et qui permettra de créer ou découvrir d'autres objets théoriques, empiriques ou méthodologiques pour expliquer, prédire, comprendre, changer la réalité sociale (Thiétart et al., 2014, p.52)
 
-### Innovation de services
-- [ ] done 
+### Usage des données ouvertes (inspiré de Ruijer et al., 2018)
+- [X] done 
 
-### Open data 
-- [ ] done 
+Construction socio-techniques émergeant dans un cadre de compréhension partagée et en conséquence des interactions entre trois sphères sociales : 
+- la sphère de production des données ouvertes
+- la sphère de réutilisation des données ouvertes
+- la sphère d'édition ou d'intermédiaition des données ouvertes
 
-### Ville intelligente
-- [ ] done 
+
+### Données (_data_)
+- [X] done 
+
+Selon l'Administrateur général des données (2015), une donnée numérique est la description élémentaire de nature numérique, représentée sous forme codée, d'une réalité (chose, événement, mesure, transaction, etc.) en vue d'être :
+- collectée, enregistrée
+- traitée, manipulée, transformée 
+- conservée, archivée
+- échangée, diffusée, communiquée.
+
+Selon leurs destinations, les données peuvent être fermées (réservées à quelques personnes ou à des organisations), partagées (leur usage est conditionné par une licence contractuelle ou des conditions générales d'utilisation) ou ouvertes (ouvertes à tous utilisateurs et à tous usages légaux).
+
+### Données ouvertes (_open data_)
+- [X] done 
+
+Données générées par tout acteur public, privé ou civil et qui respectent les huits principes fondateurs de l'open data, aussi connu ous le nom des huit principes de Sebastopol : 
+
+- Instantané : les données doivent être immédiatement disponibles afin de  préserver la valeur de la donnée. 
+- Accessible : les données doivent être disponibles pour le plus grand nombre  d’utilisateurs possible et pour différents buts. Les données doivent permettre une large utilisation pour un large public.
+- Autorisant une automatisation : les données sont structurées de manière à permettre une automatisation. Il doit donc s'agir de chaînes de caractère
+- Non-discriminatoire : les données sont disponibles pour tous sans besoin d’inscription. 
+- Non-propriétaire : les données doivent être disponibles dans un format ne nécessitant  pas l’utilisation d’un logiciel spécifique 
+- Sans-licence :les données ne doivent pas être sujettes à l’utilisation d’une licence spécifique. 
 
 ### Artefact 
 - [X] done 
