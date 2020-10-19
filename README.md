@@ -120,11 +120,23 @@ Degré de prise en compte des normes morales et éthiques dans la conception et 
  
 
 
-### Wicked problem
+### Problème pernicieux (_Wicked problem_)
+- [X] done
+
+Problème scientifique caractérisé par : 
+- Des supposés flous et des contraintes basées sur des contextes environnementaux aux contours mal définis
+- Des interactions complexes entre les sous-composantes du problème et sa solution 
+- Une forte sensibilité au changement aussi bien concernant le processus de design que l’artefact
+- Une forte dépendance aux capacités cognitives humaines pour produire des solutions efficaces
+- Une dépendance aux habilités sociales des êtres humains pour produire des solutions efficaces. 
+
+
+### Approche design science
 - [ ] done 
 
-### Design science research methodology
-- [ ] done 
+Approche scientifique visant à créer un artefact utile pour la résolution d’un problème pratique. Cette approche inscrit le chercheur et ses outils dans un rôle de médiation et de facilitation dont béneficie les praticiens impliqués dans le recherche. Les connaissances produites par cette approche, prescritives, viennent compléter les connaissance descriptives existantes, permettent d’aborder des questions inaccessibles aux outils méthodologiques traditionnels et permettent de réduire l’écart entre le théorie et la pratique. Par là, cette approche permet d’améliorer la pertinence et la notoriété de la recherche.  
+
+
 
 ### Connaissance théorique/connaissance pratique 
 - [ ] done 
