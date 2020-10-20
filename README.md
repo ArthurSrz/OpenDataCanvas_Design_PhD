@@ -78,7 +78,7 @@ Ensemble de propositions exprimant les relations entre construits. Il permet de 
  
  **Voir** [Design theory]
 
-#### Nature d'un artefact
+### Nature d'un artefact
 - [X] done 
 
 Ensemble de composants essentiels d'un artefact. On distingue deux natures possibles parmi les artefacts : 
@@ -91,7 +91,7 @@ Ensemble de composants essentiels d'un artefact. On distingue deux natures possi
   
 Ils sont constitués également d'objets technologiques mais englobent également des process qui supposent des interactions directe avec des individus et un changement dans leur comportement. 
 
-#### Propriétés d'un artefact
+### Propriétés d'un artefact
 - [X] done 
 
 Aspects d'un artefact devant être évalués au cours de la recherche. Checkland et Scholes (1990) en distingue 5 : 
