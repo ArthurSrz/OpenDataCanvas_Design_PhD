@@ -180,7 +180,7 @@ Concernant le process, celui-ci sera évalué à deux égards :
 ### Design de recherche 
 - [X] done 
 
-Trame qui permet d'articuler les différents éléments d'une recherche : problématique, littérature, données, analyse et résultat. 
+Trame qui permet d'articuler les différents éléments d'une recherche : problématique, littérature, données, analyse et résultat (Thiétart et al., p. 168)
 
 ### Design theory
 - [X] done 
@@ -192,8 +192,10 @@ Design augmenté par un cadre théorique et des propositions qui précisent son 
 
 Théorie choisie parmi les quatre premiers type de théorie de la classification de Jones (les théories pour analyser, les théories pour expliquer, les théories pour prédire, et les théories pour expliquer et prédire) et qui informe le cinquième type, à savoir les théories pour agir et designer. 
  
-### "On juge un arbre à ses fruits" (évaluation)
-- [ ] done 
+### "On juge un arbre à ses fruits" (mode d'évaluation)
+- [X] done 
+
+Mode d'évaluation naturaliste d'un artefact permettant d'explorer la mesure dans laquelle une solution technologique s'adapte à son environnement réel. En ce qu'elle met l'artefact à l'épreuve de la complexité des pratiques humaines au sein d'organisations réelles, cette évaluation permet de juger effectivement l'arbre , c'est à dire la recherche, qui a donné les fruits, à savoir l'artefact (Venable et al., 2006). 
 
 ### Evaluation naturaliste
 - [X] done 
@@ -228,13 +230,24 @@ Elément permettant d'informer et de guider les praticiens dans la réponse à a
 
 
 ### Design d'un système
-- [ ] done 
+- [X] done 
+
+Documents et graphiques qui décrivent la structure et le comportement de ce système (Offermann et al., 2010)
 
 ### Instanciation
-- [ ] done 
+- [X] done 
+
+Processus qui permet “d’implémenter des fonctionnalités dans un objet à partir d’une structure prédéfinie et pré-optimisée” (Cofer et Harding, 2006, p.120).
 
 ### Besoins fonctionnels
-- [ ] done 
+- [X] done 
+
+Besoins auxquels une intervention en système d’information doit répondre pour passer d'une situation problématique à une situation désirée. Ces besoins fonctionnels comportent trois éléments : 
+1. une description du contexte (C) social et technique
+2. une description des différents éléments de la situation problématique (ESP)
+3. une description des solutions (S) entrevues par les opérateurs de l’open data
+4. une description de la situation désirée (SD).
+
 
 ### Opérateurs de l'open data
 - [ ] done 
