@@ -297,22 +297,29 @@ Une technique particulière ou générale pour approcher des classes ou types de
 Un processus de prototypage est une méthodologie de développement d'un système basé sur la construction et l'évaluation de prototypes d'un système et ce dans le but de clarifier, en collaboration avec les futurs utilisateurs, leurs besoins (Baskerville et al., 2009, p.2)
 
 ### Type de prototypage
-- [ ] done
+- [X] done
+
+Ensemble auquel se rattache la procédure de prototypage choisie. On distingue trois ensembles de procédures :_throw it away_, incrémental et évolutif. 
 
 ### Objectif de prototypage
-- [ ] done
+- [X] done
 
-### Interactions utilisateur/artefact
-- [ ] done
+Il correspond à ce que le prototype apporte au projet de recherche. Il peut précier les besoin fonctionnels, améliorer les interactions entre l'artefact et les utilisateurs ou encore venir assurer la capacité de l'artefact à s'adapter aux évolutions des besoins des utilisateurs.
 
 ### Fonctions/fonctionnalités
-- [ ] done
+- [X] done
+
+Tâches pouvant être exécutées par l'artefact et configurées par le chercheur
 
 ### Architecture d'un prototype
-- [ ] done
+- [X] done
 
-### Utilisabilité/Utilité/Usage
-- [ ] done
+Design structurel qui facilite la construction du prototype et s'assure de sa robustesse
+
+### Utilisabilité/Utilité
+- [X] done
+
+L'utilisabilité a trait au fonctionnement d'un artefact et la facilité de son utilisation tandis que l'utilité regarde la capacité d'un artefact à atteindre l'objectif qu'il s'est fixé. 
 
 ### Barrières socio-technique 
 - [X] done
@@ -320,24 +327,31 @@ Un processus de prototypage est une méthodologie de développement d'un systèm
 Elements ayant une influence négative sur les interactions entre un système technique et un système social et de fait, sur les résultats de ces interactions (Bostrom et Heinen, 1977; Vonk et Ligtenberg, 2010)
 
 ### La carte et le territoire (Situation Problématique)
-- [ ] done 
+- [X] done 
+
+Une carte n'est pas le territoire signifie que de la même manière que les cartes nous servent à nous repérer dans le réel sans avoir vocation à (ni être en mesure de) remplacer la réalité, nous devons nous souvenir dans l'emploi des modèles heuristiques n'ont pour but que de nous orienter dans la complexité de la réalité, et qu'ils ne représentent pas l'état des choses. 
+
 
 ### Ecosystème open data
 - [X] done 
 
 Ecologie informationnelle dont l’équilibre repose sur la circulation de jeux de données ouverts qui agissent à l’image d’une “espèce ingénieur“. Cette écologie est constituée de 3 systèmes : le système de production de données, le système de transformation de données en services informationnels et le système d’intermédiation qui coordonne les interactions entre les deux via une plateforme.
 
-### Open data work/Usage des données ouvertes
-- [ ] done
+### Heuristique 
+- [X] done
 
-### Heuristique (modèle)
-- [ ] done
+Connaissance ou artefact caractérisé par le fait qu'il "marche" dans un environnement donnée sans qu'on puisse expliquer dans le détail pourquoi il fonctionne. Cette connaissance ou artefact est validé par le fait qu'il s'insère comme convenu dans un environnement donnée;
+
 
 ### Unité d'analyse
-- [ ] done
+- [X] done
+
+Niveau de compréhension de l'objet de recherche
 
 ### Contexte (Situation Problématique)
-- [ ] done 
+- [X] done 
+
+Circonstances qui conditionnent la mise en place d'un artefact
 
 ### Pertinence (Research relevance)
 - [X] done 
@@ -358,31 +372,39 @@ Usage précis de méthodes et analyses adaptées à la production de connaissanc
 **Voir** [Cycle de rigueur]
 
 ### Protocole de l'étude de cas 
-- [ ] done 
+- [X] done 
+
+méthode systématique de collecte et d'analyse de données de l'étude de cas (Miles et Huberman, 2014)
 
 ### Instruments de l'étude de cas
-- [ ] done 
+- [X] done 
+
+Appareils de mesure qui découle d'un concept et qui permet de récolter des données sur celui-ci (Thé)
 
 ### Entretiens semi-directifs
-- [ ] done 
+- [X] done 
+
+Technique d'entretien qui consiste à utiliser un guide structuré pour aborder une série de thèmes préalablement définis.(Thiétart et al., 2014)
 
 ### Analyse de documents
-- [ ] done 
+- [X] done 
+
+Travail qui consiste à appliquer une grille de catégorisation de données pour analyser du texte produit par les organisations observées par le chercheur
 
 ### Cycle de pertinence
-- [ ] done 
+- [X] done 
 
-Hevner et Chatterjee, 2010
+Cycle de recherche qui initie une recherche en _design science_. Il établit le domaine d'application de la recherche, les besoin auxquels elle va répondre ainsi que les critères acceptables pour évaluer la forme de l'artefact (Hevner et Chatterjee, 2010)
 
 ### Cycle de design 
-- [ ] done 
+- [X] done 
 
-(Hevner et Chatterjee, 2010)
+Coeur du projet de recherche en _design science_. Selon Simon (1996) ce cycle permet de générer et d'évaluer des versions alternatives du design jusqu'à atteindre une version satisfaisante. 
+
 
 ### Cycle de rigueur 
-- [ ] done 
-
-(Hevner et Chatterjee, 2010)
+- [X] done 
+Cycle de recherche qui fournit au chercheur des recherches existantes visant à s'assurer du caractère innovant du projet de recherche (Hevner et Chatterjee, 2010)
 
 ### Plateforme open data (parties prenantes)
 - [X] done 
