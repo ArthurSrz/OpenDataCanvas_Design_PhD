@@ -139,7 +139,9 @@ Approche scientifique visant à créer un artefact utile pour la résolution d�
 
 
 ### Connaissance théorique/connaissance pratique 
-- [ ] done 
+- [X] done 
+
+Tandis que les connaissances théoriques visent à comprendre la nature des Systèmes d'Informations et précisent ce qu'ils font, les connaissances pratiques cherchent à concevoir de nouveaux Systèmes d'Information qui répondent à un but précis.  On retrouve la distinction d'Alexander (1969) entre "le scientifiques qui essayent d'identifier les composants des structures existantes et le designer qui essayer de façonner les composants des structures"
 
 ### Architecture de recherche 
 - [X] done 
@@ -147,21 +149,38 @@ Approche scientifique visant à créer un artefact utile pour la résolution d�
 Aussi appelée design de la recherche, elle constitue la trame qui permet d'articuler les différents éléments d'une recherche : problématique, littérature, données, analyse et résultats (Thiétart et al., 2014). Nous considérons dans cette thèse que cette trame doit découler logiquement d'un positionnement ontologique, épistémologique et méthodologique déterminé. 
 
 ### Posture scientifique 
-- [ ] done 
+- [X] done 
+
+Positionnement du chercheur vis à vis de la nature de réalité (ontologie) et de la manière d'interagir avec elle. Cette thèse considère avec Simon (1996), que la réalité est consituée d'objets qui ont été façonnés par l'homme dans un but précis (i.e, on dit que ces objets ont des propriétés téléologiques). Pour interagir avec elle, le chercheur doit “être capable de comprendre l’enchevêtrement de (ces) objets dans l’optique de concevoir des artefacts qui pourront s’inscrire dans cet enchevêtrement et le faire évoluer”(Avenier, 2010, p.56)
 
 ### Posture épistémologique 
-- [ ] done 
+- [X] done 
+
+Positionnement du chercheur vis à vis de la nature de la connaissance. Cette thèse considère avec Romme que les connaissances doivent être définies par rapport aux objectifs qu'elles visent. Elle considère que la connaissance vise “à produire ou servir la production de systèmes qui n’existent pas encore et par là, induire des changements dans les systèmes existants pour obtenir ceux que l’on souhaite” Romme (2003, p.560)
 
 ### Posture méthodologique 
-- [ ] done 
+- [X] done 
+
+Positionnement du chercheur vis à vis de la nature des résultats auxquels ses travaux aboutiront et du mode d'interaction à adopter avec le terrain. A propos de la nature des résultats, cette thèse considère “qu’est contribution tout ce qui accroît la base de connaissance du domaine :  approfondissement théorique, méthodologique ou nouvelle expérience acquise par la recherche” (Pascal et al., 2012) . A propos du mode d'interaction avec le terrain, cette thèse s'immergera dan le terrain pour co-développer des artefacts matériels et des connaissances pratiques pour les mettre à disposition des praticiens. En revanche, il s'occupera seul de la démonstration de la capcité des résultats à provoquer le changement souhaité.  
 
 ### Principes opérationnels (*mise en place de la méthodologie*)
 - [x] done 
 
 Aussi appelés "principes de construction", ils se définissent comme « un ensemble cohérent de propositions, bâties sur l’état de l’art en sciences des organisations, pour produire de nouvelles conceptions et formes organisationnelles et redévelopper celles existantes» (Romme et Endenburg, 2006, p.288). Ils régissent ainsi le processus de production des artefacts et des connaissances qui constitueront les résultats de nos travaux de thèse.
 
+Cette thèse adopte deux types de principes : ceux relatifs à l'évaluation du produit de la thèse et ceux relatif à l'évaluation du process de la thèse. Concernant l'évaluation du produit, cette thèse suivra un double mouvement : 
+- d’un côté, c’est l’artefact, c’est à dire la technologie informatique en elle-même qui sera évaluée.
+- de l’autre, c’est l’usage de cette technologie par des membres d’écosystèmes open data qui sera évaluée.
+
+Concernant le process, celui-ci sera évalué à deux égards : 
+- par l’intermédiaire de présentations faites aux organisations qui développent des artefacts informatiques pour le compte des travailleurs de l’open data. 
+- en participant à des conférences scientifiques comme la conférence DESRIST (Design Science Research in Information Systems and Technology) dédiée au design science dans le domaine des systèmes d’information. 
+
+
 ### Design de recherche 
-- [ ] done 
+- [X] done 
+
+Trame qui permet d'articuler les différents éléments d'une recherche : problématique, littérature, données, analyse et résultat. 
 
 ### Design theory
 - [X] done 
