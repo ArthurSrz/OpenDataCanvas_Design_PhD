@@ -250,28 +250,46 @@ Besoins auxquels une intervention en système d’information doit répondre pou
 
 
 ### Opérateurs de l'open data
-- [ ] done 
+- [X] done 
+
+Individus dont le travail consite à mettre à disposition des autres diverse formes de connaissances relatives  à la production, l'édition ou la réutilisation de l'open data.
 
 ### Intervention en systèmes d'information
-- [ ] done 
+- [X] done 
+
+Design et implémentation d'un artefact dans un système socio-technique où les systèmes d'information sont cruciaux pour atteindre les objectifs visés par l'artefact. 
 
 ### Situation problématique/Situation désirée
-- [ ] done 
+- [X] done 
+
+Présentation des problèmes pratiques abordés par la recherche (situation problématique) permettant d'entrevoir les solutions que les praticiens souhaitent leur apporter (Carlsson, 2010)
+
 
 ### Elements fonctionnels
-- [ ] done
+- [X] done
+
+Parties d'un ensemble qui forme le dispositif en Système d'Information conçu, à savoir l'environnement de conception des usages dit _Open Data Canvas_
 
 ### Modèle de design
-- [ ] done
+- [X] done
 
-### Classe/Type d'artefact
-- [ ] done
+Ensemble de propositions ou d'affirmations, illustrées graphiquement, et qui expriment les relations entre les différentes éléments fonctionnels.
+
+### Type d'un artefact
+- [X] done
+
+Ensemble auquel se rattache un artefact. Chaque ensemble est défini par l'utilisation finale de l'artefact et sa structure (Offermann et al., 2010)
 
 ### Outils logiciels
-- [ ] done
+- [X] done
+
+Outils qui ne nécessitent pas d’avoir des compétences de programmation mais à partir desquels il est possible de construire un logiciel (Ince et Hekmatpour, 1987)
 
 ### Pattern de design
-- [ ] done
+- [X] done
+
+Une technique particulière ou générale pour approcher des classes ou types de problèmes similaires à un certain niveau d'abstraction bien que ces problèmes ne soient jamais apparu dans la réalité de manière identique. (Vaishnavi et Kuelcher, 2015) 
+
 
 ### Processus de prototypage
 - [X] done
