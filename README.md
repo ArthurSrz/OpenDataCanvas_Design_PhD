@@ -406,49 +406,44 @@ Coeur du projet de recherche en _design science_. Selon Simon (1996) ce cycle pe
 - [X] done 
 Cycle de recherche qui fournit au chercheur des recherches existantes visant à s'assurer du caractère innovant du projet de recherche (Hevner et Chatterjee, 2010)
 
-### Plateforme open data (parties prenantes)
+### Plateforme open data
 - [X] done 
 
 Structure modulaire composée d’éléments tangibles et intangibles qui facilitent l’interaction des acteurs et des données ouvertes. Selon Lusch et Nambisan (2015), une plateforme permet de maximiser la densité des données ouvertes à un endroit donné et d’augmenter leur liquidité.
 
 (Eisenmann et al., 2008 ; Lusch et Nambisan, 2015)
 
-### Exploration hybride 
-- [ ] done 
+### Exploration hybride utilisant la méthode des cas
+- [X] done 
 
-(Thiétart et al., 2014, p.93)
+Méthode de recherche qui allie, de manière itérative des observations participantes et des entretiens.(Hlady-Rispal,2002)
 
-### Méthode des cas 
-- [ ] done 
-
-(Hlady-Rispal,2002)
-
-### Canevas de recherche 
-- [ ] done 
-
-(Hlady-Rispal,2002)
 
 ### Impératif de décentration/impératif de participation 
-- [ ] done 
+- [X] done 
 
-(Hlady-Rispal,2002, p.109) 
+Il s'agit des deux tendances à équilibrer dans la posture dite du balancier (Hlady-Rispal, 2002, p.109), utilisé dans la collecte de données qualitatives. L'impératif de participation stipule que pour pouvoir être adopté par le milieu observé et récupérer des informations riches et pertinentes, le chercheur doit adopter les codes de communication et comportements qui lui sont propres. Cette tendance à l’immersion doit être contrebalancé par l'impératif de décentration qui stipule de prendre du recul et ce afin d’éviter l’absorption, synonyme d’arrêt du projet de recherche. 
+
 
 ### Echantillon d'observation 
-- [ ] done 
+- [X] done 
 
-(Thiétart et al., 2014)
+Ensemble d'éléments observés et sur lesquels des données seront rassemblées. (Thiétart et al., 2014)
 
 ### Technique de la boule de neige
-- [ ] done 
+- [X] done 
 
-### Principe d'opportunisme méthodologique 
-- [ ] done 
+La technique de la boule de neige est une procédure utilisée pour les populations difficiles à identifier. Elle consiste à trouver un premier répondant qui vérifie les critères de sélection définis par le chercheur. On demande à ce premier interlocuteur d’en désigner d’autres, qui seront, eux aussi, susceptibles de présenter
+les caractéristiques requises, et ainsi de suite (Thiétart et al., p.234).
 
-(Hlady-Rispal,2002)
+### Principe d'opportunisme méthodique 
+- [X] done 
+
+Stratégie adoptée par le chercheur en réponde ) la limite de ses ressources temporelles et qui l'amène à faire des compromis entre l’exhaustivité nécessaire (en termes de validité interne et externe) et la volonté de produire des résultats. En se concentrant sur les unités d’analyse les plus accessibles, il va réviser ses ambitions et adapter sa question de recherche. Il peut, à ce titre, réduire les échantillons, préférer des populations exemplaires pour construire une théorie ou encore tester seulement une partie des théories initialement envisagées (Thiétart et al., p.128)
 
 ### Contexte parents 
-- [ ] done 
+- [X] done 
 
-(Passeron, 2006)
+Contextes différents de celui qui a permis de faire émerger un objet théorique ou un artefact et qui vise à le mettre à l'épreuve. (Passeron, 2006)
 
 
